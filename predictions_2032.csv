@@ -1,0 +1,796 @@
+Sport,Parameter,Model,Prediction_2032
+Alpine Skiing,drug,ARIMA,0.0
+Alpine Skiing,drug,SARIMA,0.0
+Alpine Skiing,drug,SARIMAX,0.0
+Alpine Skiing,equity,ARIMA,0.3443833713178343
+Alpine Skiing,equity,SARIMA,0.34353883953418557
+Alpine Skiing,equity,SARIMAX,0.3443833713178343
+Alpine Skiing,popularity,ARIMA,0.04189033371703668
+Alpine Skiing,popularity,SARIMA,0.0401956638173973
+Alpine Skiing,popularity,SARIMAX,0.04189033371703668
+Alpine Skiing,normalizedcountry,ARIMA,0.24237991503812684
+Alpine Skiing,normalizedcountry,SARIMA,0.24604303980329756
+Alpine Skiing,normalizedcountry,SARIMAX,0.24237991503812684
+Alpine Skiing,CV,ARIMA,1.003118440245379
+Alpine Skiing,CV,SARIMA,1.0448083204407865
+Alpine Skiing,CV,SARIMAX,1.003118440245379
+Alpinism,drug,ARIMA,0.0
+Alpinism,drug,SARIMA,0.0
+Alpinism,drug,SARIMAX,0.0
+Alpinism,equity,ARIMA,0.5000000003518984
+Alpinism,equity,SARIMA,0.5000000001975122
+Alpinism,equity,SARIMAX,0.5000000003518984
+Alpinism,popularity,ARIMA,0.000270272915121411
+Alpinism,popularity,SARIMA,0.00027027291512014194
+Alpinism,popularity,SARIMAX,0.000270272915121411
+Alpinism,normalizedcountry,ARIMA,0.005
+Alpinism,normalizedcountry,SARIMA,0.004999999999999765
+Alpinism,normalizedcountry,SARIMAX,0.005
+Alpinism,CV,ARIMA,0.8660254037844398
+Alpinism,CV,SARIMA,0.8660254037826549
+Alpinism,CV,SARIMAX,0.8660254037844398
+Archery,drug,ARIMA,0.0
+Archery,drug,SARIMA,0.0
+Archery,drug,SARIMAX,0.0
+Archery,equity,ARIMA,0.4997876951326251
+Archery,equity,SARIMA,0.5168782636457767
+Archery,equity,SARIMAX,0.4997876951326251
+Archery,popularity,ARIMA,0.01309003202991119
+Archery,popularity,SARIMA,0.01399143430503406
+Archery,popularity,SARIMAX,0.01309003202991119
+Archery,normalizedcountry,ARIMA,0.2799701432458777
+Archery,normalizedcountry,SARIMA,0.3377794552508408
+Archery,normalizedcountry,SARIMAX,0.2799701432458777
+Archery,CV,ARIMA,0.7752702613427661
+Archery,CV,SARIMA,0.7611059724458415
+Archery,CV,SARIMAX,0.7752702613427661
+Art Competitions,drug,ARIMA,0.0
+Art Competitions,drug,SARIMA,0.0
+Art Competitions,drug,SARIMAX,0.0
+Art Competitions,equity,ARIMA,0.11671413872257415
+Art Competitions,equity,SARIMA,0.11798865109621308
+Art Competitions,equity,SARIMAX,0.11671413872257415
+Art Competitions,popularity,ARIMA,0.08797631857919007
+Art Competitions,popularity,SARIMA,0.0936455246595638
+Art Competitions,popularity,SARIMAX,0.08797631857919007
+Art Competitions,normalizedcountry,ARIMA,0.12826655795206549
+Art Competitions,normalizedcountry,SARIMA,0.12219330879186889
+Art Competitions,normalizedcountry,SARIMAX,0.12826655795206549
+Art Competitions,CV,ARIMA,0.7947915373560829
+Art Competitions,CV,SARIMA,0.8022914914018291
+Art Competitions,CV,SARIMAX,0.7947915373560829
+Athletics,drug,ARIMA,10.59544832315661
+Athletics,drug,SARIMA,6.75877205084468
+Athletics,drug,SARIMAX,10.59544832315661
+Athletics,equity,ARIMA,0.5000107217799169
+Athletics,equity,SARIMA,0.5021727540068925
+Athletics,equity,SARIMAX,0.5000107217799169
+Athletics,popularity,ARIMA,0.1735549388779403
+Athletics,popularity,SARIMA,0.1738671591824045
+Athletics,popularity,SARIMAX,0.1735549388779403
+Athletics,normalizedcountry,ARIMA,0.9886314960916543
+Athletics,normalizedcountry,SARIMA,0.9874177374080854
+Athletics,normalizedcountry,SARIMAX,0.9886314960916543
+Athletics,CV,ARIMA,1.0434843947066752
+Athletics,CV,SARIMA,1.0373795423818222
+Athletics,CV,SARIMAX,1.0434843947066752
+Badminton,drug,ARIMA,0.0
+Badminton,drug,SARIMA,0.0
+Badminton,drug,SARIMAX,0.0
+Badminton,equity,ARIMA,0.5052888540598087
+Badminton,equity,SARIMA,0.5044668840379168
+Badminton,equity,SARIMAX,0.5052888540598087
+Badminton,popularity,ARIMA,0.016869356595487505
+Badminton,popularity,SARIMA,0.016869357892497532
+Badminton,popularity,SARIMAX,0.016869356595487505
+Badminton,normalizedcountry,ARIMA,0.23171848898805297
+Badminton,normalizedcountry,SARIMA,0.6043840284660513
+Badminton,normalizedcountry,SARIMAX,0.23171848898805297
+Badminton,CV,ARIMA,0.6540810739803998
+Badminton,CV,SARIMA,0.4720948297003782
+Badminton,CV,SARIMAX,0.6540810739803998
+Baseball,drug,ARIMA,0.08152212399745865
+Baseball,drug,SARIMA,0.08835898464116082
+Baseball,drug,SARIMAX,0.08152212399745865
+Baseball,equity,ARIMA,0.0
+Baseball,equity,SARIMA,0.0
+Baseball,equity,SARIMAX,0.0
+Baseball,popularity,ARIMA,0.014099236835594917
+Baseball,popularity,SARIMA,0.014099226105137622
+Baseball,popularity,SARIMAX,0.014099236835594917
+Baseball,normalizedcountry,ARIMA,0.04
+Baseball,normalizedcountry,SARIMA,0.04
+Baseball,normalizedcountry,SARIMAX,0.04
+Baseball,CV,ARIMA,0.6768764088958336
+Baseball,CV,SARIMA,0.6542900470824096
+Baseball,CV,SARIMAX,0.6768764088958336
+Basketball,drug,ARIMA,0.032260813960144796
+Basketball,drug,SARIMA,0.03254548799946247
+Basketball,drug,SARIMAX,0.032260813960144796
+Basketball,equity,ARIMA,0.49999993673251025
+Basketball,equity,SARIMA,0.49988590219029994
+Basketball,equity,SARIMAX,0.49999993673251025
+Basketball,popularity,ARIMA,0.03443591301933562
+Basketball,popularity,SARIMA,0.03474424024642421
+Basketball,popularity,SARIMAX,0.03443591301933562
+Basketball,normalizedcountry,ARIMA,0.08630542025590131
+Basketball,normalizedcountry,SARIMA,0.08622814574120743
+Basketball,normalizedcountry,SARIMAX,0.08630542025590131
+Basketball,CV,ARIMA,0.654746450064948
+Basketball,CV,SARIMA,0.6840819926330708
+Basketball,CV,SARIMAX,0.654746450064948
+Basque Pelota,drug,ARIMA,0.0
+Basque Pelota,drug,SARIMA,0.0
+Basque Pelota,drug,SARIMAX,0.0
+Beach Volleyball,drug,ARIMA,0.0
+Beach Volleyball,drug,SARIMA,0.0
+Beach Volleyball,drug,SARIMAX,0.0
+Beach Volleyball,equity,ARIMA,0.5
+Beach Volleyball,equity,SARIMA,0.5
+Beach Volleyball,equity,SARIMAX,0.5
+Beach Volleyball,popularity,ARIMA,0.009415448047960856
+Beach Volleyball,popularity,SARIMA,0.009415448988871068
+Beach Volleyball,popularity,SARIMAX,0.009415448047960856
+Beach Volleyball,normalizedcountry,ARIMA,0.12157359131423685
+Beach Volleyball,normalizedcountry,SARIMA,0.11287055387087745
+Beach Volleyball,normalizedcountry,SARIMAX,0.12157359131423685
+Beach Volleyball,CV,ARIMA,0.831743440376579
+Beach Volleyball,CV,SARIMA,0.6918874555264323
+Beach Volleyball,CV,SARIMAX,0.831743440376579
+Biathlon,drug,ARIMA,0.0
+Biathlon,drug,SARIMA,0.0
+Biathlon,drug,SARIMAX,0.0
+Biathlon,equity,ARIMA,0.40481400437638604
+Biathlon,equity,SARIMA,0.40481400437646153
+Biathlon,equity,SARIMAX,0.40481400437638604
+Biathlon,popularity,ARIMA,0.027843532925617184
+Biathlon,popularity,SARIMA,0.030089129776105922
+Biathlon,popularity,SARIMAX,0.027843532925617184
+Biathlon,normalizedcountry,ARIMA,0.1397920231385863
+Biathlon,normalizedcountry,SARIMA,0.22945549566862392
+Biathlon,normalizedcountry,SARIMAX,0.1397920231385863
+Biathlon,CV,ARIMA,0.741087986726008
+Biathlon,CV,SARIMA,0.7438416006674483
+Biathlon,CV,SARIMAX,0.741087986726008
+Bobsleigh,drug,ARIMA,0.0
+Bobsleigh,drug,SARIMA,0.0
+Bobsleigh,drug,SARIMAX,0.0
+Bobsleigh,equity,ARIMA,0.0
+Bobsleigh,equity,SARIMA,0.0
+Bobsleigh,equity,SARIMAX,0.0
+Bobsleigh,popularity,ARIMA,0.013052355485760567
+Bobsleigh,popularity,SARIMA,0.013045367889450743
+Bobsleigh,popularity,SARIMAX,0.013052355485760567
+Bobsleigh,normalizedcountry,ARIMA,0.12467481211460968
+Bobsleigh,normalizedcountry,SARIMA,0.13411196874955858
+Bobsleigh,normalizedcountry,SARIMAX,0.12467481211460968
+Bobsleigh,CV,ARIMA,0.9100801711532187
+Bobsleigh,CV,SARIMA,0.7498561095436388
+Bobsleigh,CV,SARIMAX,0.9100801711532187
+Boxing,drug,ARIMA,0.6590028960596666
+Boxing,drug,SARIMA,0.6704822343213106
+Boxing,drug,SARIMAX,0.6590028960596666
+Boxing,equity,ARIMA,1.2822700615982123
+Boxing,equity,SARIMA,1.1803437453253582
+Boxing,equity,SARIMAX,1.2822700615982123
+Boxing,popularity,ARIMA,0.024359219597392703
+Boxing,popularity,SARIMA,0.024210716594030474
+Boxing,popularity,SARIMAX,0.024359219597392703
+Boxing,normalizedcountry,ARIMA,0.38150949327675393
+Boxing,normalizedcountry,SARIMA,0.3766673404218032
+Boxing,normalizedcountry,SARIMAX,0.38150949327675393
+Boxing,CV,ARIMA,0.7699375551578738
+Boxing,CV,SARIMA,0.8023314737924669
+Boxing,CV,SARIMAX,0.7699375551578738
+Canoeing,drug,ARIMA,2.237748755388879e-18
+Canoeing,drug,SARIMA,3.7857637382146474e-13
+Canoeing,drug,SARIMAX,2.237748755388879e-18
+Canoeing,equity,ARIMA,0.6646751910919331
+Canoeing,equity,SARIMA,0.6693093545779114
+Canoeing,equity,SARIMAX,0.6646751910919331
+Canoeing,popularity,ARIMA,0.031177429439956085
+Canoeing,popularity,SARIMA,0.03342610012406874
+Canoeing,popularity,SARIMAX,0.031177429439956085
+Canoeing,normalizedcountry,ARIMA,0.2696527278546054
+Canoeing,normalizedcountry,SARIMA,0.29336021735315265
+Canoeing,normalizedcountry,SARIMAX,0.2696527278546054
+Canoeing,CV,ARIMA,0.7586527557389572
+Canoeing,CV,SARIMA,0.7998326995419617
+Canoeing,CV,SARIMAX,0.7586527557389572
+Cricket,drug,ARIMA,0.0
+Cricket,drug,SARIMA,0.0
+Cricket,drug,SARIMAX,0.0
+Croquet,drug,ARIMA,0.0
+Croquet,drug,SARIMA,0.0
+Croquet,drug,SARIMAX,0.0
+Cross Country Skiing,drug,ARIMA,0.0
+Cross Country Skiing,drug,SARIMA,0.0
+Cross Country Skiing,drug,SARIMAX,0.0
+Cross Country Skiing,equity,ARIMA,0.3935637816866261
+Cross Country Skiing,equity,SARIMA,0.8395378942810157
+Cross Country Skiing,equity,SARIMAX,0.3935637816866261
+Cross Country Skiing,popularity,ARIMA,0.04021760464257075
+Cross Country Skiing,popularity,SARIMA,0.043590165813375055
+Cross Country Skiing,popularity,SARIMAX,0.04021760464257075
+Cross Country Skiing,normalizedcountry,ARIMA,0.19475615248118097
+Cross Country Skiing,normalizedcountry,SARIMA,0.23045771005262428
+Cross Country Skiing,normalizedcountry,SARIMAX,0.19475615248118097
+Cross Country Skiing,CV,ARIMA,0.905449516317395
+Cross Country Skiing,CV,SARIMA,0.808948674898545
+Cross Country Skiing,CV,SARIMAX,0.905449516317395
+Curling,drug,ARIMA,0.0
+Curling,drug,SARIMA,0.0
+Curling,drug,SARIMAX,0.0
+Cycling,drug,ARIMA,0.3501854101322223
+Cycling,drug,SARIMA,0.22821434707156257
+Cycling,drug,SARIMAX,0.3501854101322223
+Cycling,equity,ARIMA,0.743886680014336
+Cycling,equity,SARIMA,0.7398523849169195
+Cycling,equity,SARIMAX,0.743886680014336
+Cycling,popularity,ARIMA,0.05013668604988729
+Cycling,popularity,SARIMA,0.0517395648437732
+Cycling,popularity,SARIMAX,0.05013668604988729
+Cycling,normalizedcountry,ARIMA,0.38052218886604916
+Cycling,normalizedcountry,SARIMA,0.3867927605330363
+Cycling,normalizedcountry,SARIMAX,0.38052218886604916
+Cycling,CV,ARIMA,0.7809089792161451
+Cycling,CV,SARIMA,0.7967776043072268
+Cycling,CV,SARIMAX,0.7809089792161451
+Diving,drug,ARIMA,0.0
+Diving,drug,SARIMA,0.0
+Diving,drug,SARIMAX,0.0
+Diving,equity,ARIMA,0.5309260472875174
+Diving,equity,SARIMA,0.5244496066182939
+Diving,equity,SARIMAX,0.5309260472875174
+Diving,popularity,ARIMA,0.013310101355572755
+Diving,popularity,SARIMA,0.013453661561537643
+Diving,popularity,SARIMAX,0.013310101355572755
+Diving,normalizedcountry,ARIMA,0.14106097975566886
+Diving,normalizedcountry,SARIMA,0.11667553373182078
+Diving,normalizedcountry,SARIMAX,0.14106097975566886
+Diving,CV,ARIMA,0.6915986032964607
+Diving,CV,SARIMA,0.6826063360320438
+Diving,CV,SARIMAX,0.6915986032964607
+Equestrianism,drug,ARIMA,0.5023294701638593
+Equestrianism,drug,SARIMA,0.5405818237632323
+Equestrianism,drug,SARIMAX,0.5023294701638593
+Equestrianism,equity,ARIMA,0.49989448418085697
+Equestrianism,equity,SARIMA,0.5744973632636801
+Equestrianism,equity,SARIMAX,0.49989448418085697
+Equestrianism,popularity,ARIMA,0.022482146935458563
+Equestrianism,popularity,SARIMA,0.022592797851910814
+Equestrianism,popularity,SARIMAX,0.022482146935458563
+Equestrianism,normalizedcountry,ARIMA,0.2081726582598917
+Equestrianism,normalizedcountry,SARIMA,0.23520772632859288
+Equestrianism,normalizedcountry,SARIMAX,0.2081726582598917
+Equestrianism,CV,ARIMA,0.6660539896969259
+Equestrianism,CV,SARIMA,0.6702667189578868
+Equestrianism,CV,SARIMAX,0.6660539896969259
+Fencing,drug,ARIMA,0.0
+Fencing,drug,SARIMA,0.0
+Fencing,drug,SARIMAX,0.0
+Fencing,equity,ARIMA,0.49911871218193676
+Fencing,equity,SARIMA,0.5923643940841025
+Fencing,equity,SARIMAX,0.49911871218193676
+Fencing,popularity,ARIMA,0.021668141435831578
+Fencing,popularity,SARIMA,0.01943244823018371
+Fencing,popularity,SARIMAX,0.021668141435831578
+Fencing,normalizedcountry,ARIMA,0.22692770519406394
+Fencing,normalizedcountry,SARIMA,0.22454282911449888
+Fencing,normalizedcountry,SARIMAX,0.22692770519406394
+Fencing,CV,ARIMA,0.7878444740012293
+Fencing,CV,SARIMA,0.7751352011134498
+Fencing,CV,SARIMAX,0.7878444740012293
+Figure Skating,drug,ARIMA,0.0
+Figure Skating,drug,SARIMA,0.0
+Figure Skating,drug,SARIMAX,0.0
+Figure Skating,equity,ARIMA,0.4979305438175203
+Figure Skating,equity,SARIMA,0.46419201747624494
+Figure Skating,equity,SARIMAX,0.4979305438175203
+Figure Skating,popularity,ARIMA,0.008545747013115548
+Figure Skating,popularity,SARIMA,0.008659020492883309
+Figure Skating,popularity,SARIMAX,0.008545747013115548
+Figure Skating,normalizedcountry,ARIMA,0.3199883583561875
+Figure Skating,normalizedcountry,SARIMA,0.30907971701409465
+Figure Skating,normalizedcountry,SARIMAX,0.3199883583561875
+Figure Skating,CV,ARIMA,0.6538722453113645
+Figure Skating,CV,SARIMA,0.5837615240632319
+Figure Skating,CV,SARIMAX,0.6538722453113645
+Football,drug,ARIMA,0.0
+Football,drug,SARIMA,0.0
+Football,drug,SARIMAX,0.0
+Football,equity,ARIMA,0.5946988375139624
+Football,equity,SARIMA,0.5973011991200182
+Football,equity,SARIMAX,0.5946988375139624
+Football,popularity,ARIMA,0.056528054589940945
+Football,popularity,SARIMA,0.05980515317367925
+Football,popularity,SARIMAX,0.056528054589940945
+Football,normalizedcountry,ARIMA,0.11729641106854072
+Football,normalizedcountry,SARIMA,0.12065053459445566
+Football,normalizedcountry,SARIMAX,0.11729641106854072
+Football,CV,ARIMA,1.1531463749407165
+Football,CV,SARIMA,1.0269382064374057
+Football,CV,SARIMAX,1.1531463749407165
+Freestyle Skiing,drug,ARIMA,0.0
+Freestyle Skiing,drug,SARIMA,0.0
+Freestyle Skiing,drug,SARIMAX,0.0
+Golf,drug,ARIMA,0.0
+Golf,drug,SARIMA,0.0
+Golf,drug,SARIMAX,0.0
+Golf,equity,ARIMA,0.39003177866301647
+Golf,equity,SARIMA,0.523763075229154
+Golf,equity,SARIMAX,0.39003177866301647
+Golf,popularity,ARIMA,0.024961357463129157
+Golf,popularity,SARIMA,0.012250729967212262
+Golf,popularity,SARIMAX,0.024961357463129157
+Golf,normalizedcountry,ARIMA,0.1952778561289988
+Golf,normalizedcountry,SARIMA,0.19528114526072426
+Golf,normalizedcountry,SARIMAX,0.1952778561289988
+Golf,CV,ARIMA,0.6331264929403214
+Golf,CV,SARIMA,0.6365937721733114
+Golf,CV,SARIMAX,0.6331264929403214
+Gymnastics,drug,ARIMA,0.22526759543368852
+Gymnastics,drug,SARIMA,0.23590322535298508
+Gymnastics,drug,SARIMAX,0.22526759543368852
+Gymnastics,equity,ARIMA,0.41373286302039003
+Gymnastics,equity,SARIMA,0.4025015376537136
+Gymnastics,equity,SARIMAX,0.41373286302039003
+Gymnastics,popularity,ARIMA,0.03295654048123776
+Gymnastics,popularity,SARIMA,0.04411736067766788
+Gymnastics,popularity,SARIMAX,0.03295654048123776
+Gymnastics,normalizedcountry,ARIMA,0.30060944979508797
+Gymnastics,normalizedcountry,SARIMA,0.30459449714520986
+Gymnastics,normalizedcountry,SARIMAX,0.30060944979508797
+Gymnastics,CV,ARIMA,0.744837040136485
+Gymnastics,CV,SARIMA,0.760476109101159
+Gymnastics,CV,SARIMAX,0.744837040136485
+Handball,drug,ARIMA,0.0
+Handball,drug,SARIMA,0.0
+Handball,drug,SARIMAX,0.0
+Handball,equity,ARIMA,0.4999994405084328
+Handball,equity,SARIMA,0.5041803187965019
+Handball,equity,SARIMAX,0.4999994405084328
+Handball,popularity,ARIMA,0.03295411482080326
+Handball,popularity,SARIMA,0.03295409355589183
+Handball,popularity,SARIMAX,0.03295411482080326
+Handball,normalizedcountry,ARIMA,0.09349268525037299
+Handball,normalizedcountry,SARIMA,0.09081725926002508
+Handball,normalizedcountry,SARIMAX,0.09349268525037299
+Handball,CV,ARIMA,0.7610880224387526
+Handball,CV,SARIMA,0.751776443207357
+Handball,CV,SARIMAX,0.7610880224387526
+Hockey,drug,ARIMA,0.0
+Hockey,drug,SARIMA,0.0
+Hockey,drug,SARIMAX,0.0
+Hockey,equity,ARIMA,0.5000264376043619
+Hockey,equity,SARIMA,0.5000286291593287
+Hockey,equity,SARIMAX,0.5000264376043619
+Hockey,popularity,ARIMA,0.035915286371777745
+Hockey,popularity,SARIMA,0.03545085291822073
+Hockey,popularity,SARIMAX,0.035915286371777745
+Hockey,normalizedcountry,ARIMA,0.07841341109773205
+Hockey,normalizedcountry,SARIMA,0.07415052421348439
+Hockey,normalizedcountry,SARIMAX,0.07841341109773205
+Hockey,CV,ARIMA,0.7827169006569954
+Hockey,CV,SARIMA,0.7812740575183962
+Hockey,CV,SARIMAX,0.7827169006569954
+Ice Hockey,drug,ARIMA,0.0
+Ice Hockey,drug,SARIMA,0.0
+Ice Hockey,drug,SARIMAX,0.0
+Ice Hockey,equity,ARIMA,0.0
+Ice Hockey,equity,SARIMA,0.0
+Ice Hockey,equity,SARIMAX,0.0
+Ice Hockey,popularity,ARIMA,0.019776330055423764
+Ice Hockey,popularity,SARIMA,0.019707124381779784
+Ice Hockey,popularity,SARIMAX,0.019776330055423764
+Ice Hockey,normalizedcountry,ARIMA,0.060038752263532676
+Ice Hockey,normalizedcountry,SARIMA,0.06004675997504856
+Ice Hockey,normalizedcountry,SARIMAX,0.060038752263532676
+Ice Hockey,CV,ARIMA,0.7826125959315299
+Ice Hockey,CV,SARIMA,0.7697017549338544
+Ice Hockey,CV,SARIMAX,0.7826125959315299
+Jeu De Paume,drug,ARIMA,0.0
+Jeu De Paume,drug,SARIMA,0.0
+Jeu De Paume,drug,SARIMAX,0.0
+Judo,drug,ARIMA,0.44821957986455924
+Judo,drug,SARIMA,0.45721844949314316
+Judo,drug,SARIMAX,0.44821957986455924
+Judo,equity,ARIMA,0.6104503482534982
+Judo,equity,SARIMA,0.6354757140216212
+Judo,equity,SARIMAX,0.6104503482534982
+Judo,popularity,ARIMA,0.036484896133537205
+Judo,popularity,SARIMA,0.03760212417055648
+Judo,popularity,SARIMAX,0.036484896133537205
+Judo,normalizedcountry,ARIMA,1.2708673030692872
+Judo,normalizedcountry,SARIMA,1.3151982708350405
+Judo,normalizedcountry,SARIMAX,1.2708673030692872
+Judo,CV,ARIMA,0.7864276572463659
+Judo,CV,SARIMA,0.8114204335409417
+Judo,CV,SARIMAX,0.7864276572463659
+Lacrosse,drug,ARIMA,0.0
+Lacrosse,drug,SARIMA,0.0
+Lacrosse,drug,SARIMAX,0.0
+Luge,drug,ARIMA,0.0
+Luge,drug,SARIMA,0.0
+Luge,drug,SARIMAX,0.0
+Luge,equity,ARIMA,0.24022692196192774
+Luge,equity,SARIMA,0.1366472856945589
+Luge,equity,SARIMAX,0.24022692196192774
+Luge,popularity,ARIMA,0.005970876832232842
+Luge,popularity,SARIMA,0.005970889130476698
+Luge,popularity,SARIMAX,0.005970876832232842
+Luge,normalizedcountry,ARIMA,0.10998726047880457
+Luge,normalizedcountry,SARIMA,0.11379010049640952
+Luge,normalizedcountry,SARIMAX,0.10998726047880457
+Luge,CV,ARIMA,0.8416915404953922
+Luge,CV,SARIMA,0.8622683167061536
+Luge,CV,SARIMAX,0.8416915404953922
+Military Ski Patrol,drug,ARIMA,0.0
+Military Ski Patrol,drug,SARIMA,0.0
+Military Ski Patrol,drug,SARIMAX,0.0
+Modern Pentathlon,drug,ARIMA,0.16355150432580434
+Modern Pentathlon,drug,SARIMA,0.13819955415022744
+Modern Pentathlon,drug,SARIMAX,0.16355150432580434
+Modern Pentathlon,equity,ARIMA,0.5
+Modern Pentathlon,equity,SARIMA,0.5
+Modern Pentathlon,equity,SARIMAX,0.5
+Modern Pentathlon,popularity,ARIMA,0.007061592752498666
+Modern Pentathlon,popularity,SARIMA,0.007223689746791151
+Modern Pentathlon,popularity,SARIMAX,0.007061592752498666
+Modern Pentathlon,normalizedcountry,ARIMA,0.13594317848187815
+Modern Pentathlon,normalizedcountry,SARIMA,0.15352883139663168
+Modern Pentathlon,normalizedcountry,SARIMAX,0.13594317848187815
+Modern Pentathlon,CV,ARIMA,0.7520410119091552
+Modern Pentathlon,CV,SARIMA,0.7515395235756758
+Modern Pentathlon,CV,SARIMAX,0.7520410119091552
+Motorboating,drug,ARIMA,0.0
+Motorboating,drug,SARIMA,0.0
+Motorboating,drug,SARIMAX,0.0
+Nordic Combined,drug,ARIMA,0.0
+Nordic Combined,drug,SARIMA,0.0
+Nordic Combined,drug,SARIMAX,0.0
+Nordic Combined,equity,ARIMA,0.0
+Nordic Combined,equity,SARIMA,0.0
+Nordic Combined,equity,SARIMAX,0.0
+Nordic Combined,popularity,ARIMA,0.004431511205413707
+Nordic Combined,popularity,SARIMA,0.0044315124420279605
+Nordic Combined,popularity,SARIMAX,0.004431511205413707
+Nordic Combined,normalizedcountry,ARIMA,0.06104040708251154
+Nordic Combined,normalizedcountry,SARIMA,0.0606189515317757
+Nordic Combined,normalizedcountry,SARIMAX,0.06104040708251154
+Nordic Combined,CV,ARIMA,0.6880073785679814
+Nordic Combined,CV,SARIMA,0.6504396836892155
+Nordic Combined,CV,SARIMAX,0.6880073785679814
+Polo,drug,ARIMA,0.0
+Polo,drug,SARIMA,0.0
+Polo,drug,SARIMAX,0.0
+Polo,equity,ARIMA,0.0
+Polo,equity,SARIMA,0.0
+Polo,equity,SARIMAX,0.0
+Polo,popularity,ARIMA,0.002837839269975939
+Polo,popularity,SARIMA,0.0028378392700087237
+Polo,popularity,SARIMAX,0.002837839269975939
+Polo,normalizedcountry,ARIMA,0.02003569082407766
+Polo,normalizedcountry,SARIMA,0.021504582404273272
+Polo,normalizedcountry,SARIMAX,0.02003569082407766
+Polo,CV,ARIMA,0.5569429443839211
+Polo,CV,SARIMA,0.557691820280598
+Polo,CV,SARIMAX,0.5569429443839211
+Racquets,drug,ARIMA,0.0
+Racquets,drug,SARIMA,0.0
+Racquets,drug,SARIMAX,0.0
+Rhythmic Gymnastics,drug,ARIMA,0.0
+Rhythmic Gymnastics,drug,SARIMA,0.0
+Rhythmic Gymnastics,drug,SARIMAX,0.0
+Rhythmic Gymnastics,equity,ARIMA,1.0
+Rhythmic Gymnastics,equity,SARIMA,1.0
+Rhythmic Gymnastics,equity,SARIMAX,1.0
+Rhythmic Gymnastics,popularity,ARIMA,0.007042116443115184
+Rhythmic Gymnastics,popularity,SARIMA,0.007042105249974241
+Rhythmic Gymnastics,popularity,SARIMAX,0.007042116443115184
+Rhythmic Gymnastics,normalizedcountry,ARIMA,0.12
+Rhythmic Gymnastics,normalizedcountry,SARIMA,0.1199999999999991
+Rhythmic Gymnastics,normalizedcountry,SARIMAX,0.12
+Rhythmic Gymnastics,CV,ARIMA,0.7841812268470739
+Rhythmic Gymnastics,CV,SARIMA,0.7852927325224583
+Rhythmic Gymnastics,CV,SARIMAX,0.7841812268470739
+Roque,drug,ARIMA,0.0
+Roque,drug,SARIMA,0.0
+Roque,drug,SARIMAX,0.0
+Rowing,drug,ARIMA,0.30830277555062263
+Rowing,drug,SARIMA,0.3003258101062507
+Rowing,drug,SARIMAX,0.30830277555062263
+Rowing,equity,ARIMA,0.5022256816073705
+Rowing,equity,SARIMA,0.48702240910208083
+Rowing,equity,SARIMAX,0.5022256816073705
+Rowing,popularity,ARIMA,0.04457876859308873
+Rowing,popularity,SARIMA,0.044811064432144464
+Rowing,popularity,SARIMAX,0.04457876859308873
+Rowing,normalizedcountry,ARIMA,0.3386426351498782
+Rowing,normalizedcountry,SARIMA,0.3524039487428671
+Rowing,normalizedcountry,SARIMAX,0.3386426351498782
+Rowing,CV,ARIMA,0.945210321521147
+Rowing,CV,SARIMA,0.9313507288296925
+Rowing,CV,SARIMAX,0.945210321521147
+Rugby,drug,ARIMA,0.0
+Rugby,drug,SARIMA,0.0
+Rugby,drug,SARIMAX,0.0
+Rugby,equity,ARIMA,0.500000000000346
+Rugby,equity,SARIMA,0.5000000000008094
+Rugby,equity,SARIMAX,0.500000000000346
+Rugby,popularity,ARIMA,0.0392422953516142
+Rugby,popularity,SARIMA,0.030291217864771527
+Rugby,popularity,SARIMAX,0.0392422953516142
+Rugby,normalizedcountry,ARIMA,0.015000000002796611
+Rugby,normalizedcountry,SARIMA,0.015000000002796518
+Rugby,normalizedcountry,SARIMAX,0.015000000002796611
+Rugby,CV,ARIMA,0.7183558835147953
+Rugby,CV,SARIMA,0.7213749657170435
+Rugby,CV,SARIMAX,0.7183558835147953
+Rugby Sevens,drug,ARIMA,0.0
+Rugby Sevens,drug,SARIMA,0.0
+Rugby Sevens,drug,SARIMAX,0.0
+Sailing,drug,ARIMA,0.03226428746944262
+Sailing,drug,SARIMA,0.032540223391286704
+Sailing,drug,SARIMAX,0.03226428746944262
+Sailing,equity,ARIMA,0.6726636791559765
+Sailing,equity,SARIMA,0.6219996873864355
+Sailing,equity,SARIMAX,0.6726636791559765
+Sailing,popularity,ARIMA,0.03084771095912583
+Sailing,popularity,SARIMA,0.030068431718714
+Sailing,popularity,SARIMAX,0.03084771095912583
+Sailing,normalizedcountry,ARIMA,0.3262407614236387
+Sailing,normalizedcountry,SARIMA,0.33206860301542845
+Sailing,normalizedcountry,SARIMAX,0.3262407614236387
+Sailing,CV,ARIMA,0.8164745742444606
+Sailing,CV,SARIMA,0.8368068699646249
+Sailing,CV,SARIMAX,0.8164745742444606
+Shooting,drug,ARIMA,0.07537356810719484
+Shooting,drug,SARIMA,-0.047238259181637154
+Shooting,drug,SARIMAX,0.07537356810719484
+Shooting,equity,ARIMA,0.61594044245084
+Shooting,equity,SARIMA,0.5981638130054754
+Shooting,equity,SARIMAX,0.61594044245084
+Shooting,popularity,ARIMA,0.033105736481084155
+Shooting,popularity,SARIMA,0.03480032816237079
+Shooting,popularity,SARIMAX,0.033105736481084155
+Shooting,normalizedcountry,ARIMA,0.49143350592698615
+Shooting,normalizedcountry,SARIMA,0.5026284397254295
+Shooting,normalizedcountry,SARIMAX,0.49143350592698615
+Shooting,CV,ARIMA,0.7455575969944382
+Shooting,CV,SARIMA,0.7428553689949344
+Shooting,CV,SARIMAX,0.7455575969944382
+Short Track Speed Skating,drug,ARIMA,0.0
+Short Track Speed Skating,drug,SARIMA,0.0
+Short Track Speed Skating,drug,SARIMAX,0.0
+Skeleton,drug,ARIMA,0.0
+Skeleton,drug,SARIMA,0.0
+Skeleton,drug,SARIMAX,0.0
+Ski Jumping,drug,ARIMA,0.0
+Ski Jumping,drug,SARIMA,0.0
+Ski Jumping,drug,SARIMAX,0.0
+Ski Jumping,equity,ARIMA,0.0
+Ski Jumping,equity,SARIMA,0.0
+Ski Jumping,equity,SARIMAX,0.0
+Ski Jumping,popularity,ARIMA,0.010449496789124149
+Ski Jumping,popularity,SARIMA,0.010461768514177528
+Ski Jumping,popularity,SARIMAX,0.010449496789124149
+Ski Jumping,normalizedcountry,ARIMA,0.08877369823866
+Ski Jumping,normalizedcountry,SARIMA,0.09026497324898539
+Ski Jumping,normalizedcountry,SARIMAX,0.08877369823866
+Ski Jumping,CV,ARIMA,0.7353171629424542
+Ski Jumping,CV,SARIMA,0.7289069931643087
+Ski Jumping,CV,SARIMAX,0.7353171629424542
+Snowboarding,drug,ARIMA,0.0
+Snowboarding,drug,SARIMA,0.0
+Snowboarding,drug,SARIMAX,0.0
+Softball,drug,ARIMA,0.0
+Softball,drug,SARIMA,0.0
+Softball,drug,SARIMAX,0.0
+Softball,equity,ARIMA,1.0
+Softball,equity,SARIMA,1.0
+Softball,equity,SARIMAX,1.0
+Softball,popularity,ARIMA,0.008822232024778
+Softball,popularity,SARIMA,0.008822232024778
+Softball,popularity,SARIMAX,0.008822232024778
+Softball,normalizedcountry,ARIMA,0.04
+Softball,normalizedcountry,SARIMA,0.04
+Softball,normalizedcountry,SARIMAX,0.04
+Softball,CV,ARIMA,0.8396840342595776
+Softball,CV,SARIMA,0.9873373539096999
+Softball,CV,SARIMAX,0.8396840342595776
+Speed Skating,drug,ARIMA,0.0
+Speed Skating,drug,SARIMA,0.0
+Speed Skating,drug,SARIMAX,0.0
+Speed Skating,equity,ARIMA,0.434705498914885
+Speed Skating,equity,SARIMA,0.8241133723902507
+Speed Skating,equity,SARIMAX,0.434705498914885
+Speed Skating,popularity,ARIMA,0.02195658252982674
+Speed Skating,popularity,SARIMA,0.02316406643479377
+Speed Skating,popularity,SARIMAX,0.02195658252982674
+Speed Skating,normalizedcountry,ARIMA,0.11139248514557244
+Speed Skating,normalizedcountry,SARIMA,0.11381876137904054
+Speed Skating,normalizedcountry,SARIMAX,0.11139248514557244
+Speed Skating,CV,ARIMA,0.8184590162810953
+Speed Skating,CV,SARIMA,0.788319701569046
+Speed Skating,CV,SARIMAX,0.8184590162810953
+Swimming,drug,ARIMA,0.6687685284599358
+Swimming,drug,SARIMA,0.35146723021818405
+Swimming,drug,SARIMAX,0.6687685284599358
+Swimming,equity,ARIMA,0.5512964633610543
+Swimming,equity,SARIMA,0.5663555057025925
+Swimming,equity,SARIMAX,0.5512964633610543
+Swimming,popularity,ARIMA,0.0837280475435875
+Swimming,popularity,SARIMA,0.08415090884305136
+Swimming,popularity,SARIMAX,0.0837280475435875
+Swimming,normalizedcountry,ARIMA,1.295848019970938
+Swimming,normalizedcountry,SARIMA,0.8260832888856919
+Swimming,normalizedcountry,SARIMAX,1.295848019970938
+Swimming,CV,ARIMA,0.9452422581406563
+Swimming,CV,SARIMA,0.9284190499361747
+Swimming,CV,SARIMAX,0.9452422581406563
+Synchronized Swimming,drug,ARIMA,0.0
+Synchronized Swimming,drug,SARIMA,0.0
+Synchronized Swimming,drug,SARIMAX,0.0
+Synchronized Swimming,equity,ARIMA,1.0
+Synchronized Swimming,equity,SARIMA,1.0
+Synchronized Swimming,equity,SARIMAX,1.0
+Synchronized Swimming,popularity,ARIMA,0.009841028408742606
+Synchronized Swimming,popularity,SARIMA,0.009841026955231548
+Synchronized Swimming,popularity,SARIMAX,0.009841028408742606
+Synchronized Swimming,normalizedcountry,ARIMA,0.11669684368089811
+Synchronized Swimming,normalizedcountry,SARIMA,0.11374474501549256
+Synchronized Swimming,normalizedcountry,SARIMAX,0.11669684368089811
+Synchronized Swimming,CV,ARIMA,0.7227105043043663
+Synchronized Swimming,CV,SARIMA,0.8088990890003526
+Synchronized Swimming,CV,SARIMAX,0.7227105043043663
+Table Tennis,drug,ARIMA,0.0
+Table Tennis,drug,SARIMA,0.0
+Table Tennis,drug,SARIMAX,0.0
+Table Tennis,equity,ARIMA,0.4992805035640572
+Table Tennis,equity,SARIMA,0.4992012958069719
+Table Tennis,equity,SARIMAX,0.4992805035640572
+Table Tennis,popularity,ARIMA,0.01702735991349862
+Table Tennis,popularity,SARIMA,0.01702736185441525
+Table Tennis,popularity,SARIMAX,0.01702735991349862
+Table Tennis,normalizedcountry,ARIMA,0.2806023882259505
+Table Tennis,normalizedcountry,SARIMA,0.36143951776068084
+Table Tennis,normalizedcountry,SARIMAX,0.2806023882259505
+Table Tennis,CV,ARIMA,0.7380027194634966
+Table Tennis,CV,SARIMA,0.7011868481682878
+Table Tennis,CV,SARIMAX,0.7380027194634966
+Taekwondo,drug,ARIMA,0.0
+Taekwondo,drug,SARIMA,0.0
+Taekwondo,drug,SARIMAX,0.0
+Taekwondo,equity,ARIMA,0.49857026128788406
+Taekwondo,equity,SARIMA,0.5140611416872466
+Taekwondo,equity,SARIMAX,0.49857026128788406
+Taekwondo,popularity,ARIMA,0.012570591436230771
+Taekwondo,popularity,SARIMA,0.012570600686225862
+Taekwondo,popularity,SARIMAX,0.012570591436230771
+Taekwondo,normalizedcountry,ARIMA,0.3026809514201002
+Taekwondo,normalizedcountry,SARIMA,0.2940983980612523
+Taekwondo,normalizedcountry,SARIMAX,0.3026809514201002
+Taekwondo,CV,ARIMA,0.6287493399987903
+Taekwondo,CV,SARIMA,0.6193906392322556
+Taekwondo,CV,SARIMAX,0.6287493399987903
+Tennis,drug,ARIMA,0.0
+Tennis,drug,SARIMA,0.0
+Tennis,drug,SARIMAX,0.0
+Tennis,equity,ARIMA,0.49999521973398137
+Tennis,equity,SARIMA,0.5032819511944592
+Tennis,equity,SARIMAX,0.49999521973398137
+Tennis,popularity,ARIMA,0.01670099313068444
+Tennis,popularity,SARIMA,0.018425566664747546
+Tennis,popularity,SARIMAX,0.01670099313068444
+Tennis,normalizedcountry,ARIMA,0.34419878211629956
+Tennis,normalizedcountry,SARIMA,0.35832435955753394
+Tennis,normalizedcountry,SARIMAX,0.34419878211629956
+Tennis,CV,ARIMA,0.7772209606121203
+Tennis,CV,SARIMA,0.8856189018018957
+Tennis,CV,SARIMAX,0.7772209606121203
+Trampolining,drug,ARIMA,0.0
+Trampolining,drug,SARIMA,0.0
+Trampolining,drug,SARIMAX,0.0
+Trampolining,equity,ARIMA,0.5
+Trampolining,equity,SARIMA,0.5
+Trampolining,equity,SARIMAX,0.5
+Trampolining,popularity,ARIMA,0.002337814145729159
+Trampolining,popularity,SARIMA,0.0023378141457291585
+Trampolining,popularity,SARIMAX,0.002337814145729159
+Trampolining,normalizedcountry,ARIMA,0.0888663139880135
+Trampolining,normalizedcountry,SARIMA,0.08888901580771409
+Trampolining,normalizedcountry,SARIMAX,0.0888663139880135
+Trampolining,CV,ARIMA,0.6330406649558882
+Trampolining,CV,SARIMA,0.6368508756191884
+Trampolining,CV,SARIMAX,0.6330406649558882
+Triathlon,drug,ARIMA,0.6715494849378589
+Triathlon,drug,SARIMA,0.6715500281828429
+Triathlon,drug,SARIMAX,0.6715494849378589
+Triathlon,equity,ARIMA,0.5
+Triathlon,equity,SARIMA,0.5
+Triathlon,equity,SARIMAX,0.5
+Triathlon,popularity,ARIMA,0.010788544490746427
+Triathlon,popularity,SARIMA,0.0107885488535739
+Triathlon,popularity,SARIMAX,0.010788544490746427
+Triathlon,normalizedcountry,ARIMA,0.2459965789625281
+Triathlon,normalizedcountry,SARIMA,0.19775036381603986
+Triathlon,normalizedcountry,SARIMAX,0.2459965789625281
+Triathlon,CV,ARIMA,0.6693652201046464
+Triathlon,CV,SARIMA,0.6695181033607449
+Triathlon,CV,SARIMAX,0.6693652201046464
+Tug-Of-War,drug,ARIMA,0.0
+Tug-Of-War,drug,SARIMA,0.0
+Tug-Of-War,drug,SARIMAX,0.0
+Tug-Of-War,equity,ARIMA,0.0
+Tug-Of-War,equity,SARIMA,0.0
+Tug-Of-War,equity,SARIMAX,0.0
+Tug-Of-War,popularity,ARIMA,0.009319667465928532
+Tug-Of-War,popularity,SARIMA,0.009319663428515288
+Tug-Of-War,popularity,SARIMAX,0.009319667465928532
+Tug-Of-War,normalizedcountry,ARIMA,0.02500000822460189
+Tug-Of-War,normalizedcountry,SARIMA,0.02500000822460189
+Tug-Of-War,normalizedcountry,SARIMAX,0.02500000822460189
+Tug-Of-War,CV,ARIMA,0.5462088548624151
+Tug-Of-War,CV,SARIMA,0.5462092473443572
+Tug-Of-War,CV,SARIMAX,0.5462088548624151
+Volleyball,drug,ARIMA,0.36354937371354096
+Volleyball,drug,SARIMA,0.2936036034417778
+Volleyball,drug,SARIMAX,0.36354937371354096
+Volleyball,equity,ARIMA,0.49893465154340183
+Volleyball,equity,SARIMA,0.5023441066285085
+Volleyball,equity,SARIMAX,0.49893465154340183
+Volleyball,popularity,ARIMA,0.03121099100148165
+Volleyball,popularity,SARIMA,0.03200960352669212
+Volleyball,popularity,SARIMAX,0.03121099100148165
+Volleyball,normalizedcountry,ARIMA,0.09714373892354168
+Volleyball,normalizedcountry,SARIMA,0.09902532382220558
+Volleyball,normalizedcountry,SARIMAX,0.09714373892354168
+Volleyball,CV,ARIMA,0.766839361956909
+Volleyball,CV,SARIMA,0.7669429625370224
+Volleyball,CV,SARIMAX,0.766839361956909
+Water Polo,drug,ARIMA,0.0
+Water Polo,drug,SARIMA,0.0
+Water Polo,drug,SARIMAX,0.0
+Water Polo,equity,ARIMA,0.5656438391003158
+Water Polo,equity,SARIMA,0.5676025174900765
+Water Polo,equity,SARIMAX,0.5656438391003158
+Water Polo,popularity,ARIMA,0.023734789808362744
+Water Polo,popularity,SARIMA,0.026891111041872136
+Water Polo,popularity,SARIMAX,0.023734789808362744
+Water Polo,normalizedcountry,ARIMA,0.06913380353081439
+Water Polo,normalizedcountry,SARIMA,0.074882083009335
+Water Polo,normalizedcountry,SARIMAX,0.06913380353081439
+Water Polo,CV,ARIMA,0.7194071686613308
+Water Polo,CV,SARIMA,0.7118200485654789
+Water Polo,CV,SARIMAX,0.7194071686613308
+Weightlifting,drug,ARIMA,-1.2451435755473241
+Weightlifting,drug,SARIMA,6.692958514118442
+Weightlifting,drug,SARIMAX,-1.2451435755473241
+Weightlifting,equity,ARIMA,0.5002028194512964
+Weightlifting,equity,SARIMA,0.4983519426192656
+Weightlifting,equity,SARIMAX,0.5002028194512964
+Weightlifting,popularity,ARIMA,0.016828697834603452
+Weightlifting,popularity,SARIMA,0.016008898446492056
+Weightlifting,popularity,SARIMAX,0.016828697834603452
+Weightlifting,normalizedcountry,ARIMA,0.45815017835971067
+Weightlifting,normalizedcountry,SARIMA,0.516905874669639
+Weightlifting,normalizedcountry,SARIMAX,0.45815017835971067
+Weightlifting,CV,ARIMA,0.7715587815418112
+Weightlifting,CV,SARIMA,0.7711914616861427
+Weightlifting,CV,SARIMAX,0.7715587815418112
+Wrestling,drug,ARIMA,0.7833960391956745
+Wrestling,drug,SARIMA,1.058244533104643
+Wrestling,drug,SARIMAX,0.7833960391956745
+Wrestling,equity,ARIMA,1.5117551631253476
+Wrestling,equity,SARIMA,1.32460783914843
+Wrestling,equity,SARIMAX,1.5117551631253476
+Wrestling,popularity,ARIMA,0.02746511079443228
+Wrestling,popularity,SARIMA,0.026890006728110337
+Wrestling,popularity,SARIMAX,0.02746511079443228
+Wrestling,normalizedcountry,ARIMA,0.34224454200831667
+Wrestling,normalizedcountry,SARIMA,0.30713513521995645
+Wrestling,normalizedcountry,SARIMAX,0.34224454200831667
+Wrestling,CV,ARIMA,0.7525632036707917
+Wrestling,CV,SARIMA,0.7206019279949819
+Wrestling,CV,SARIMAX,0.7525632036707917
