@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+           0       0.61      0.61      0.61       206
+           1       0.71      0.72      0.72       282
+
+    accuracy                           0.67       488
+   macro avg       0.66      0.66      0.66       488
+weighted avg       0.67      0.67      0.67       488
+
+Best Params: {'n_neighbors': 3}

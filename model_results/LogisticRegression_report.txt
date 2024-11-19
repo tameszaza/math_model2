@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+           0       0.67      0.75      0.71       143
+           1       0.78      0.71      0.74       182
+
+    accuracy                           0.73       325
+   macro avg       0.73      0.73      0.72       325
+weighted avg       0.73      0.73      0.73       325
+
+Best Params: {'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}
