@@ -1,0 +1,483 @@
+# Mathematical Notation for the LightGBM Algorithm
+
+LightGBM is a gradient boosting framework that uses tree-based learning algorithms. It is designed to be efficient and scalable, especially for large datasets. LightGBM introduces novel techniques like histogram-based decision trees, leaf-wise tree growth, Gradient-based One-Side Sampling (GOSS), and Exclusive Feature Bundling (EFB) to improve training speed and reduce memory consumption.
+
+---
+
+## Notation
+
+- \( \mathcal{D} = \{ (x_i, y_i) \}_{i=1}^N \): Training dataset with \( N \) samples.
+- \( x_i \in \mathbb{R}^d \): Feature vector for the \( i \)-th sample.
+- \( y_i \in \mathbb{R} \) or \( y_i \in \{1, ..., K\} \): Target variable (regression or classification).
+- \( T \): Total number of boosting iterations (trees).
+- \( F^{(t)}(x) \): Model prediction at iteration \( t \).
+- \( l(y, F(x)) \): Loss function (e.g., squared loss for regression).
+- \( \nabla_{F} l(y, F(x)) \): Gradient of the loss function with respect to the model output.
+- \( H_{F} l(y, F(x)) \): Hessian (second derivative) of the loss function.
+- \( \gamma_t \): Learning rate (step size).
+- \( \mathcal{L} \): Objective function.
+
+---
+
+## Objective Function
+
+The objective is to minimize the empirical risk with regularization over the dataset:
+
+\[
+\mathcal{L} = \sum_{i=1}^N l(y_i, F(x_i)) + \sum_{t=1}^T \Omega(h_t)
+\]
+
+- \( \Omega(h) \): Regularization term for the tree \( h \).
+
+---
+
+## Gradient Boosting Framework
+
+At each iteration \( t \), the model is updated:
+
+\[
+F^{(t)}(x) = F^{(t-1)}(x) + \gamma_t h_t(x)
+\]
+
+### Taylor Expansion
+
+To optimize the objective, LightGBM uses a second-order Taylor expansion of the loss function:
+
+\[
+\mathcal{L}^{(t)} \approx \sum_{i=1}^N \left[ l(y_i, F^{(t-1)}(x_i)) + g_i h_t(x_i) + \frac{1}{2} h_i h_t^2(x_i) \right] + \Omega(h_t)
+\]
+
+- \( g_i = \left. \frac{\partial l(y_i, F(x_i))}{\partial F(x_i)} \right|_{F(x) = F^{(t-1)}(x_i)} \): First-order gradient.
+- \( h_i = \left. \frac{\partial^2 l(y_i, F(x_i))}{\partial F(x_i)^2} \right|_{F(x) = F^{(t-1)}(x_i)} \): Second-order gradient (Hessian).
+
+Since \( l(y_i, F^{(t-1)}(x_i)) \) is constant with respect to \( h_t \), it can be omitted in the optimization.
+
+---
+
+## Tree Structure Optimization
+
+The goal is to find \( h_t(x) \) that minimizes:
+
+\[
+\mathcal{L}^{(t)} = \sum_{i=1}^N \left[ g_i h_t(x_i) + \frac{1}{2} h_i h_t^2(x_i) \right] + \Omega(h_t)
+\]
+
+### Regularization Term
+
+LightGBM uses the following regularization term for a tree \( h \):
+
+\[
+\Omega(h) = \gamma T + \frac{1}{2} \lambda \sum_{j=1}^{J} w_j^2
+\]
+
+- \( \gamma \): Complexity cost per leaf.
+- \( \lambda \): \( L_2 \) regularization term.
+- \( J \): Number of leaves in the tree.
+- \( w_j \): Leaf weight for leaf \( j \).
+
+### Leaf-wise Tree Growth
+
+LightGBM grows trees leaf-wise (best-first) rather than level-wise. It chooses the leaf with the maximum loss reduction to split.
+
+---
+
+## Loss Reduction Calculation
+
+For a potential split, the gain (loss reduction) is calculated as:
+
+\[
+\text{Gain} = \frac{1}{2} \left( \frac{(\sum_{i \in L} g_i)^2}{\sum_{i \in L} h_i + \lambda} + \frac{(\sum_{i \in R} g_i)^2}{\sum_{i \in R} h_i + \lambda} - \frac{(\sum_{i \in L \cup R} g_i)^2}{\sum_{i \in L \cup R} h_i + \lambda} \right) - \gamma
+\]
+
+- \( L \): Left child node (samples satisfying the split condition).
+- \( R \): Right child node (samples not satisfying the split condition).
+
+### Optimal Leaf Weight
+
+The optimal weight for a leaf \( j \) is:
+
+\[
+w_j = -\frac{\sum_{i \in I_j} g_i}{\sum_{i \in I_j} h_i + \lambda}
+\]
+
+- \( I_j \): Set of sample indices in leaf \( j \).
+
+---
+
+## Histogram-based Decision Trees
+
+LightGBM uses histogram-based algorithms to speed up training.
+
+### Feature Binning
+
+- Each continuous feature is binned into \( K \) discrete bins.
+- The binning reduces the number of possible split points.
+
+### Histogram Construction
+
+- For each feature, construct a histogram with \( K \) bins.
+- Accumulate gradients and Hessians in each bin.
+
+### Split Finding
+
+- Use the histograms to efficiently compute the best split.
+- The gain calculation uses the aggregated sums of gradients and Hessians in the bins.
+
+---
+
+## Gradient-based One-Side Sampling (GOSS)
+
+GOSS reduces the number of data instances used to estimate the information gain.
+
+### Key Idea
+
+- Keep all instances with large gradients (high loss).
+- Randomly sample instances with small gradients (low loss).
+
+### Procedure
+
+1. **Select Top Instances:**
+
+   - Retain a fraction \( a \) of instances with the largest gradients.
+
+2. **Random Sampling:**
+
+   - Randomly sample a fraction \( b \) of instances from the remaining data.
+
+3. **Adjust Instance Weights:**
+
+   - To compensate for the underrepresented small-gradient instances, multiply their weights by \( \frac{1 - a}{b} \).
+
+### Effect on Gain Calculation
+
+- The adjusted weights ensure an unbiased estimation of the information gain.
+
+---
+
+## Exclusive Feature Bundling (EFB)
+
+EFB reduces the number of features by bundling mutually exclusive features.
+
+### Mutually Exclusive Features
+
+- Features are mutually exclusive if they rarely take non-zero values simultaneously.
+
+### Feature Bundling
+
+1. **Grouping Features:**
+
+   - Group mutually exclusive features together.
+
+2. **Bundle Features:**
+
+   - Combine grouped features into a single feature (bundle) by assigning non-overlapping bins.
+
+3. **Conflict-free Mapping:**
+
+   - Ensure that no information is lost due to overlapping non-zero entries.
+
+### Benefits
+
+- Reduces memory consumption.
+- Speeds up training by decreasing the number of features.
+
+---
+
+## Leaf-wise Tree Growth with Depth Limitation
+
+While leaf-wise growth can lead to deep trees and potential overfitting, LightGBM allows setting a maximum depth.
+
+### Depth Limitation
+
+- **Max Depth \( D_{\text{max}} \):**
+
+  - Restricts the depth of the tree to prevent overfitting.
+
+- **Leaf-wise Growth:**
+
+  - Continues to split leaves with the maximum gain until the depth limit or other stopping criteria are met.
+
+---
+
+## Full Algorithm Summary
+
+**Initialization:**
+
+- Set \( F^{(0)}(x) = \bar{y} \) (e.g., mean of targets for regression).
+
+**For \( t = 1 \) to \( T \):**
+
+1. **Compute Gradients and Hessians:**
+
+   - For each sample \( i \):
+
+     \[
+     g_i = \left. \frac{\partial l(y_i, F(x_i))}{\partial F(x_i)} \right|_{F(x) = F^{(t-1)}(x_i)}
+     \]
+
+     \[
+     h_i = \left. \frac{\partial^2 l(y_i, F(x_i))}{\partial F(x_i)^2} \right|_{F(x) = F^{(t-1)}(x_i)}
+     \]
+
+2. **Apply GOSS (Optional):**
+
+   - Retain top \( a \times N \) samples with largest \( |g_i| \).
+   - Randomly sample \( b \times N \) from the rest.
+   - Adjust weights for sampled instances.
+
+3. **Feature Binning:**
+
+   - Bin continuous features into \( K \) bins.
+
+4. **Apply EFB (Optional):**
+
+   - Bundle mutually exclusive features.
+
+5. **Construct Histograms:**
+
+   - Build histograms for each feature using the binned data.
+
+6. **Tree Building:**
+
+   - **Initialization:**
+
+     - Start with a single root node containing all samples.
+
+   - **Recursive Splitting:**
+
+     - While stopping criteria are not met:
+
+       - For each leaf node:
+
+         - For each feature:
+
+           - For each possible split point (bins):
+
+             - Compute the gain using the histogram.
+
+       - Select the split with the maximum gain.
+
+       - Split the leaf node accordingly.
+
+       - Update the tree structure.
+
+7. **Compute Leaf Values:**
+
+   - For each leaf \( j \):
+
+     \[
+     w_j = -\frac{\sum_{i \in I_j} g_i}{\sum_{i \in I_j} h_i + \lambda}
+     \]
+
+8. **Update Model:**
+
+   - Update predictions:
+
+     \[
+     F^{(t)}(x) = F^{(t-1)}(x) + \gamma_t h_t(x)
+     \]
+
+---
+
+## Handling Regression and Classification
+
+### Regression
+
+- **Loss Function:**
+
+  - Squared loss:
+
+    \[
+    l(y_i, F(x_i)) = \frac{1}{2} (y_i - F(x_i))^2
+    \]
+
+- **Gradients and Hessians:**
+
+  \[
+  g_i = F^{(t-1)}(x_i) - y_i
+  \]
+
+  \[
+  h_i = 1
+  \]
+
+### Binary Classification
+
+- **Loss Function:**
+
+  - Logistic loss:
+
+    \[
+    l(y_i, F(x_i)) = \log(1 + \exp(-y_i F(x_i)))
+    \]
+
+    - \( y_i \in \{ -1, 1 \} \)
+
+- **Gradients and Hessians:**
+
+  \[
+  p_i = \frac{1}{1 + \exp(-F^{(t-1)}(x_i))}
+  \]
+
+  \[
+  g_i = p_i - y_i
+  \]
+
+  \[
+  h_i = p_i (1 - p_i)
+  \]
+
+### Multiclass Classification
+
+- **Softmax Loss Function:**
+
+  \[
+  l(y_i, F(x_i)) = -\log\left( \frac{\exp(F_{y_i}(x_i))}{\sum_{k=1}^K \exp(F_k(x_i))} \right)
+  \]
+
+- **Gradients and Hessians:**
+
+  \[
+  p_{ik} = \frac{\exp(F_k^{(t-1)}(x_i))}{\sum_{j=1}^K \exp(F_j^{(t-1)}(x_i))}
+  \]
+
+  \[
+  g_{ik} = p_{ik} - \mathbb{I}(y_i = k)
+  \]
+
+  \[
+  h_{ik} = p_{ik} (1 - p_{ik})
+  \]
+
+---
+
+## Regularization Parameters
+
+- **\( \lambda \):** L2 regularization term on leaf weights.
+- **\( \gamma \):** Cost of adding an additional leaf (leaf-wise regularization).
+- **\( \alpha \):** L1 regularization term on leaf weights (optional).
+
+---
+
+## Advantages of LightGBM Techniques
+
+### Histogram-based Algorithm
+
+- **Efficiency:**
+
+  - Reduces the number of split points.
+  - Speeds up computation of gains.
+
+- **Memory Consumption:**
+
+  - Uses integer bins instead of floating-point numbers.
+
+### Leaf-wise Tree Growth
+
+- **Higher Accuracy:**
+
+  - Can capture complex patterns by focusing on leaves with high loss.
+
+- **Potential Overfitting:**
+
+  - Mitigated by setting a maximum depth or minimum loss reduction.
+
+### GOSS
+
+- **Speed Improvement:**
+
+  - Reduces the number of data instances for gain estimation.
+
+- **Maintains Accuracy:**
+
+  - Keeps important (high-gradient) instances.
+
+### EFB
+
+- **Feature Reduction:**
+
+  - Decreases the number of features by bundling.
+
+- **Memory and Computation Savings:**
+
+  - Reduces resource usage without significant loss of information.
+
+---
+
+## Stopping Criteria
+
+Tree growth stops when one of the following conditions is met:
+
+- **Maximum Depth Reached:**
+
+  - Depth of the tree reaches \( D_{\text{max}} \).
+
+- **Minimum Data in Leaf:**
+
+  - A leaf has fewer than \( N_{\text{min\_leaf}} \) samples.
+
+- **Minimum Loss Reduction:**
+
+  - The gain from splitting is less than a threshold \( \epsilon \).
+
+---
+
+## Pseudocode for Tree Building
+
+**Function BuildTree(node):**
+
+1. **If Stopping Criteria Met:**
+
+   - Return.
+
+2. **For Each Feature:**
+
+   - For Each Possible Split:
+
+     - Compute Gain.
+
+3. **Select Best Split:**
+
+   - \( \text{BestSplit} = \arg\max_{\text{splits}} \text{Gain} \).
+
+4. **If Gain > Threshold:**
+
+   - Split Node using BestSplit.
+
+   - BuildTree(LeftChild).
+
+   - BuildTree(RightChild).
+
+5. **Else:**
+
+   - Return.
+
+---
+
+## Conclusion
+
+LightGBM enhances traditional gradient boosting by introducing several innovative techniques:
+
+- **Histogram-based Decision Trees:**
+
+  - Improves efficiency by reducing the number of split points.
+
+- **Leaf-wise Tree Growth:**
+
+  - Focuses on leaves with the highest potential for loss reduction.
+
+- **Gradient-based One-Side Sampling (GOSS):**
+
+  - Speeds up training by selecting a subset of data based on gradient magnitude.
+
+- **Exclusive Feature Bundling (EFB):**
+
+  - Reduces dimensionality by bundling features that are rarely non-zero simultaneously.
+
+These methods allow LightGBM to handle large-scale data with high efficiency and accuracy, making it a popular choice for machine learning tasks involving big data.
+
+---
+
+**References:**
+
+- Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., ... & Liu, T. Y. (2017). [LightGBM: A highly efficient gradient boosting decision tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree). *Advances in Neural Information Processing Systems*, 3146–3154.

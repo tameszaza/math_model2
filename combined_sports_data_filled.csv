@@ -1,0 +1,2016 @@
+Year,drug,equity,popularity,normalizedcountry,CV,label,Sport
+1896,0.0,,,,,0,Alpine Skiing
+1900,0.0,,,,,0,Alpine Skiing
+1904,0.0,,,,,0,Alpine Skiing
+1906,0.0,,,,,0,Alpine Skiing
+1908,0.0,,,,,0,Alpine Skiing
+1912,0.0,,,,,0,Alpine Skiing
+1920,0.0,,,,,0,Alpine Skiing
+1924,0.0,,,,,0,Alpine Skiing
+1928,0.0,,,,,0,Alpine Skiing
+1932,0.0,,,,,0,Alpine Skiing
+1936,0.0,,,,,1,Alpine Skiing
+1948,0.0,,,,,1,Alpine Skiing
+1952,0.0,,,,,1,Alpine Skiing
+1956,0.0,,,,,1,Alpine Skiing
+1960,0.0,,,,,1,Alpine Skiing
+1964,0.0,,,,,1,Alpine Skiing
+1968,0.0,,,,,1,Alpine Skiing
+1972,0.0,,,,,1,Alpine Skiing
+1976,0.0,,,,,1,Alpine Skiing
+1980,0.0,,,,,1,Alpine Skiing
+1984,0.0,,,,,1,Alpine Skiing
+1988,0.0,,,,,1,Alpine Skiing
+1992,0.0,,,,,1,Alpine Skiing
+1996,0.0,,,,,0,Alpine Skiing
+2000,0.0,,,,,0,Alpine Skiing
+2004,0.0,,,,,0,Alpine Skiing
+2008,0.0,,,,,0,Alpine Skiing
+2012,0.0,,,,,0,Alpine Skiing
+2016,0.0,,,,,0,Alpine Skiing
+2020,0.0,,,,,0,Alpine Skiing
+2024,0.0,,,,,0,Alpine Skiing
+1896,0.0,,,,,0,Alpinism
+1900,0.0,,,,,0,Alpinism
+1904,0.0,,,,,0,Alpinism
+1906,0.0,,,,,0,Alpinism
+1908,0.0,,,,,0,Alpinism
+1912,0.0,,,,,0,Alpinism
+1920,0.0,,,,,0,Alpinism
+1924,0.0,,,,,1,Alpinism
+1928,0.0,,,,,0,Alpinism
+1932,0.0,,,,,1,Alpinism
+1936,0.0,,,,,1,Alpinism
+1948,0.0,,,,,0,Alpinism
+1952,0.0,,,,,0,Alpinism
+1956,0.0,,,,,0,Alpinism
+1960,0.0,,,,,0,Alpinism
+1964,0.0,,,,,0,Alpinism
+1968,0.0,,,,,0,Alpinism
+1972,0.0,,,,,0,Alpinism
+1976,0.0,,,,,0,Alpinism
+1980,0.0,,,,,0,Alpinism
+1984,0.0,,,,,0,Alpinism
+1988,0.0,,,,,0,Alpinism
+1992,0.0,,,,,0,Alpinism
+1996,0.0,,,,,0,Alpinism
+2000,0.0,,,,,0,Alpinism
+2004,0.0,,,,,0,Alpinism
+2008,0.0,,,,,0,Alpinism
+2012,0.0,,,,,0,Alpinism
+2016,0.0,,,,,0,Alpinism
+2020,0.0,,,,,0,Alpinism
+2024,0.0,,,,,0,Alpinism
+1896,0.0,,,,,0,Archery
+1900,0.0,,,,,1,Archery
+1904,0.0,,,,,1,Archery
+1906,0.0,,,,,0,Archery
+1908,0.0,,,,,1,Archery
+1912,0.0,,,,,0,Archery
+1920,0.0,,,,,1,Archery
+1924,0.0,,,,,0,Archery
+1928,0.0,,,,,0,Archery
+1932,0.0,,,,,0,Archery
+1936,0.0,,,,,0,Archery
+1948,0.0,,,,,0,Archery
+1952,0.0,,,,,0,Archery
+1956,0.0,,,,,0,Archery
+1960,0.0,,,,,0,Archery
+1964,0.0,,,,,0,Archery
+1968,0.0,,,,,0,Archery
+1972,0.0,,,,,1,Archery
+1976,0.0,,,,,1,Archery
+1980,0.0,,,,,1,Archery
+1984,0.0,,,,,1,Archery
+1988,0.0,,,,,1,Archery
+1992,0.0,,,,,1,Archery
+1996,0.0,,,,,1,Archery
+2000,0.0,,,,,1,Archery
+2004,0.0,,,,,1,Archery
+2008,0.0,,,,,1,Archery
+2012,0.0,,,,,1,Archery
+2016,0.0,,,,,1,Archery
+2020,0.0,,,,,1,Archery
+2024,0.0,,,,,1,Archery
+1896,0.0,,,,,0,Art Competitions
+1900,0.0,,,,,0,Art Competitions
+1904,0.0,,,,,0,Art Competitions
+1906,0.0,,,,,0,Art Competitions
+1908,0.0,,,,,0,Art Competitions
+1912,0.0,,,,,1,Art Competitions
+1920,0.0,,,,,1,Art Competitions
+1924,0.0,,,,,1,Art Competitions
+1928,0.0,,,,,1,Art Competitions
+1932,0.0,,,,,1,Art Competitions
+1936,0.0,,,,,1,Art Competitions
+1948,0.0,,,,,1,Art Competitions
+1952,0.0,,,,,0,Art Competitions
+1956,0.0,,,,,0,Art Competitions
+1960,0.0,,,,,0,Art Competitions
+1964,0.0,,,,,0,Art Competitions
+1968,0.0,,,,,0,Art Competitions
+1972,0.0,,,,,0,Art Competitions
+1976,0.0,,,,,0,Art Competitions
+1980,0.0,,,,,0,Art Competitions
+1984,0.0,,,,,0,Art Competitions
+1988,0.0,,,,,0,Art Competitions
+1992,0.0,,,,,0,Art Competitions
+1996,0.0,,,,,0,Art Competitions
+2000,0.0,,,,,0,Art Competitions
+2004,0.0,,,,,0,Art Competitions
+2008,0.0,,,,,0,Art Competitions
+2012,0.0,,,,,0,Art Competitions
+2016,0.0,,,,,0,Art Competitions
+2020,0.0,,,,,0,Art Competitions
+2024,0.0,,,,,0,Art Competitions
+1896,0.0,,,,,1,Athletics
+1900,0.0,,,,,1,Athletics
+1904,0.0,,,,,1,Athletics
+1906,0.0,,,,,1,Athletics
+1908,0.0,,,,,1,Athletics
+1912,0.0,,,,,1,Athletics
+1920,0.0,,,,,1,Athletics
+1924,0.0,,,,,1,Athletics
+1928,0.0,,,,,1,Athletics
+1932,0.0,,,,,1,Athletics
+1936,0.0,,,,,1,Athletics
+1948,0.0,,,,,1,Athletics
+1952,0.0,,,,,1,Athletics
+1956,0.0,,,,,1,Athletics
+1960,0.0,,,,,1,Athletics
+1964,0.0,,,,,1,Athletics
+1968,0.0,,,,,1,Athletics
+1972,0.0,,,,,1,Athletics
+1976,1.0,,,,,1,Athletics
+1980,0.0,,,,,1,Athletics
+1984,4.0,,,,,1,Athletics
+1988,1.0,,,,,1,Athletics
+1992,5.0,,,,,1,Athletics
+1996,7.0,,,,,1,Athletics
+2000,4.0,,,,,1,Athletics
+2004,17.0,,,,,1,Athletics
+2008,46.0,,,,,1,Athletics
+2012,86.0,,,,,1,Athletics
+2016,2.0,,,,,1,Athletics
+2020,7.0,,,,,1,Athletics
+2024,2.0,,,,,1,Athletics
+1896,0.0,,,,,0,Badminton
+1900,0.0,,,,,0,Badminton
+1904,0.0,,,,,0,Badminton
+1906,0.0,,,,,0,Badminton
+1908,0.0,,,,,0,Badminton
+1912,0.0,,,,,0,Badminton
+1920,0.0,,,,,0,Badminton
+1924,0.0,,,,,0,Badminton
+1928,0.0,,,,,0,Badminton
+1932,0.0,,,,,0,Badminton
+1936,0.0,,,,,0,Badminton
+1948,0.0,,,,,0,Badminton
+1952,0.0,,,,,0,Badminton
+1956,0.0,,,,,0,Badminton
+1960,0.0,,,,,0,Badminton
+1964,0.0,,,,,0,Badminton
+1968,0.0,,,,,0,Badminton
+1972,0.0,,,,,0,Badminton
+1976,0.0,,,,,0,Badminton
+1980,0.0,,,,,0,Badminton
+1984,0.0,,,,,0,Badminton
+1988,0.0,,,,,0,Badminton
+1992,0.0,,,,,1,Badminton
+1996,0.0,,,,,1,Badminton
+2000,0.0,,,,,1,Badminton
+2004,0.0,,,,,1,Badminton
+2008,0.0,,,,,1,Badminton
+2012,0.0,,,,,1,Badminton
+2016,0.0,,,,,1,Badminton
+2020,0.0,,,,,1,Badminton
+2024,0.0,,,,,1,Badminton
+1896,0.0,,,,,0,Baseball
+1900,0.0,,,,,0,Baseball
+1904,0.0,,,,,0,Baseball
+1906,0.0,,,,,0,Baseball
+1908,0.0,,,,,0,Baseball
+1912,0.0,,,,,0,Baseball
+1920,0.0,,,,,0,Baseball
+1924,0.0,,,,,0,Baseball
+1928,0.0,,,,,0,Baseball
+1932,0.0,,,,,0,Baseball
+1936,0.0,,,,,0,Baseball
+1948,0.0,,,,,0,Baseball
+1952,0.0,,,,,0,Baseball
+1956,0.0,,,,,0,Baseball
+1960,0.0,,,,,0,Baseball
+1964,0.0,,,,,0,Baseball
+1968,0.0,,,,,0,Baseball
+1972,0.0,,,,,0,Baseball
+1976,0.0,,,,,0,Baseball
+1980,0.0,,,,,0,Baseball
+1984,0.0,,,,,0,Baseball
+1988,0.0,,,,,0,Baseball
+1992,0.0,,,,,1,Baseball
+1996,0.0,,,,,1,Baseball
+2000,0.0,,,,,1,Baseball
+2004,2.0,,,,,1,Baseball
+2008,0.0,,,,,1,Baseball
+2012,0.0,,,,,0,Baseball
+2016,0.0,,,,,0,Baseball
+2020,0.0,,,,,0,Baseball
+2024,0.0,,,,,0,Baseball
+1896,0.0,,,,,0,Basketball
+1900,0.0,,,,,0,Basketball
+1904,0.0,,,,,0,Basketball
+1906,0.0,,,,,0,Basketball
+1908,0.0,,,,,0,Basketball
+1912,0.0,,,,,0,Basketball
+1920,0.0,,,,,0,Basketball
+1924,0.0,,,,,0,Basketball
+1928,0.0,,,,,0,Basketball
+1932,0.0,,,,,0,Basketball
+1936,0.0,,,,,1,Basketball
+1948,0.0,,,,,1,Basketball
+1952,0.0,,,,,1,Basketball
+1956,0.0,,,,,1,Basketball
+1960,0.0,,,,,1,Basketball
+1964,0.0,,,,,1,Basketball
+1968,0.0,,,,,1,Basketball
+1972,1.0,,,,,1,Basketball
+1976,0.0,,,,,1,Basketball
+1980,0.0,,,,,1,Basketball
+1984,0.0,,,,,1,Basketball
+1988,0.0,,,,,1,Basketball
+1992,0.0,,,,,1,Basketball
+1996,0.0,,,,,1,Basketball
+2000,0.0,,,,,1,Basketball
+2004,0.0,,,,,1,Basketball
+2008,0.0,,,,,1,Basketball
+2012,0.0,,,,,1,Basketball
+2016,0.0,,,,,1,Basketball
+2020,0.0,,,,,1,Basketball
+2024,0.0,,,,,1,Basketball
+1896,0.0,,,,,0,Basque Pelota
+1900,0.0,0.0,0.0010330578512396,0.005,1.4142135623730951,1,Basque Pelota
+1904,0.0,,,,,0,Basque Pelota
+1906,0.0,,,,,0,Basque Pelota
+1908,0.0,,,,,0,Basque Pelota
+1912,0.0,,,,,0,Basque Pelota
+1920,0.0,,,,,0,Basque Pelota
+1924,0.0,,,,,0,Basque Pelota
+1928,0.0,,,,,0,Basque Pelota
+1932,0.0,,,,,0,Basque Pelota
+1936,0.0,,,,,0,Basque Pelota
+1948,0.0,,,,,0,Basque Pelota
+1952,0.0,,,,,0,Basque Pelota
+1956,0.0,,,,,0,Basque Pelota
+1960,0.0,,,,,0,Basque Pelota
+1964,0.0,,,,,0,Basque Pelota
+1968,0.0,,,,,0,Basque Pelota
+1972,0.0,,,,,0,Basque Pelota
+1976,0.0,,,,,0,Basque Pelota
+1980,0.0,,,,,0,Basque Pelota
+1984,0.0,,,,,0,Basque Pelota
+1988,0.0,,,,,0,Basque Pelota
+1992,0.0,,,,,0,Basque Pelota
+1996,0.0,,,,,0,Basque Pelota
+2000,0.0,,,,,0,Basque Pelota
+2004,0.0,,,,,0,Basque Pelota
+2008,0.0,,,,,0,Basque Pelota
+2012,0.0,,,,,0,Basque Pelota
+2016,0.0,,,,,0,Basque Pelota
+2020,0.0,,,,,0,Basque Pelota
+2024,0.0,,,,,0,Basque Pelota
+1896,0.0,,,,,0,Beach Volleyball
+1900,0.0,,,,,0,Beach Volleyball
+1904,0.0,,,,,0,Beach Volleyball
+1906,0.0,,,,,0,Beach Volleyball
+1908,0.0,,,,,0,Beach Volleyball
+1912,0.0,,,,,0,Beach Volleyball
+1920,0.0,,,,,0,Beach Volleyball
+1924,0.0,,,,,0,Beach Volleyball
+1928,0.0,,,,,0,Beach Volleyball
+1932,0.0,,,,,0,Beach Volleyball
+1936,0.0,,,,,0,Beach Volleyball
+1948,0.0,,,,,0,Beach Volleyball
+1952,0.0,,,,,0,Beach Volleyball
+1956,0.0,,,,,0,Beach Volleyball
+1960,0.0,,,,,0,Beach Volleyball
+1964,0.0,,,,,0,Beach Volleyball
+1968,0.0,,,,,0,Beach Volleyball
+1972,0.0,,,,,0,Beach Volleyball
+1976,0.0,,,,,0,Beach Volleyball
+1980,0.0,,,,,0,Beach Volleyball
+1984,0.0,,,,,0,Beach Volleyball
+1988,0.0,,,,,0,Beach Volleyball
+1992,0.0,,,,,0,Beach Volleyball
+1996,0.0,,,,,1,Beach Volleyball
+2000,0.0,,,,,1,Beach Volleyball
+2004,0.0,,,,,1,Beach Volleyball
+2008,0.0,,,,,1,Beach Volleyball
+2012,0.0,,,,,1,Beach Volleyball
+2016,0.0,,,,,1,Beach Volleyball
+2020,0.0,,,,,0,Beach Volleyball
+2024,0.0,,,,,1,Beach Volleyball
+1896,0.0,,,,,0,Biathlon
+1900,0.0,,,,,0,Biathlon
+1904,0.0,,,,,0,Biathlon
+1906,0.0,,,,,0,Biathlon
+1908,0.0,,,,,0,Biathlon
+1912,0.0,,,,,0,Biathlon
+1920,0.0,,,,,0,Biathlon
+1924,0.0,,,,,0,Biathlon
+1928,0.0,,,,,0,Biathlon
+1932,0.0,,,,,0,Biathlon
+1936,0.0,,,,,0,Biathlon
+1948,0.0,,,,,0,Biathlon
+1952,0.0,,,,,0,Biathlon
+1956,0.0,,,,,0,Biathlon
+1960,0.0,,,,,1,Biathlon
+1964,0.0,,,,,1,Biathlon
+1968,0.0,,,,,1,Biathlon
+1972,0.0,,,,,1,Biathlon
+1976,0.0,,,,,1,Biathlon
+1980,0.0,,,,,1,Biathlon
+1984,0.0,,,,,1,Biathlon
+1988,0.0,,,,,1,Biathlon
+1992,0.0,,,,,1,Biathlon
+1996,0.0,,,,,0,Biathlon
+2000,0.0,,,,,0,Biathlon
+2004,0.0,,,,,0,Biathlon
+2008,0.0,,,,,0,Biathlon
+2012,0.0,,,,,0,Biathlon
+2016,0.0,,,,,0,Biathlon
+2020,0.0,,,,,0,Biathlon
+2024,0.0,,,,,0,Biathlon
+1896,0.0,,,,,0,Bobsleigh
+1900,0.0,,,,,0,Bobsleigh
+1904,0.0,,,,,0,Bobsleigh
+1906,0.0,,,,,0,Bobsleigh
+1908,0.0,,,,,0,Bobsleigh
+1912,0.0,,,,,0,Bobsleigh
+1920,0.0,,,,,0,Bobsleigh
+1924,0.0,,,,,1,Bobsleigh
+1928,0.0,,,,,1,Bobsleigh
+1932,0.0,,,,,1,Bobsleigh
+1936,0.0,,,,,1,Bobsleigh
+1948,0.0,,,,,1,Bobsleigh
+1952,0.0,,,,,1,Bobsleigh
+1956,0.0,,,,,1,Bobsleigh
+1960,0.0,,,,,0,Bobsleigh
+1964,0.0,,,,,1,Bobsleigh
+1968,0.0,,,,,1,Bobsleigh
+1972,0.0,,,,,1,Bobsleigh
+1976,0.0,,,,,1,Bobsleigh
+1980,0.0,,,,,1,Bobsleigh
+1984,0.0,,,,,1,Bobsleigh
+1988,0.0,,,,,1,Bobsleigh
+1992,0.0,,,,,1,Bobsleigh
+1996,0.0,,,,,0,Bobsleigh
+2000,0.0,,,,,0,Bobsleigh
+2004,0.0,,,,,0,Bobsleigh
+2008,0.0,,,,,0,Bobsleigh
+2012,0.0,,,,,0,Bobsleigh
+2016,0.0,,,,,0,Bobsleigh
+2020,0.0,,,,,0,Bobsleigh
+2024,0.0,,,,,0,Bobsleigh
+1896,0.0,,,,,0,Boxing
+1900,0.0,,,,,0,Boxing
+1904,0.0,,,,,1,Boxing
+1906,0.0,,,,,0,Boxing
+1908,0.0,,,,,1,Boxing
+1912,0.0,,,,,0,Boxing
+1920,0.0,,,,,1,Boxing
+1924,0.0,,,,,1,Boxing
+1928,0.0,,,,,1,Boxing
+1932,0.0,,,,,1,Boxing
+1936,0.0,,,,,1,Boxing
+1948,0.0,,,,,1,Boxing
+1952,0.0,,,,,1,Boxing
+1956,0.0,,,,,1,Boxing
+1960,0.0,,,,,1,Boxing
+1964,0.0,,,,,1,Boxing
+1968,0.0,,,,,1,Boxing
+1972,0.0,,,,,1,Boxing
+1976,0.0,,,,,1,Boxing
+1980,0.0,,,,,1,Boxing
+1984,0.0,,,,,1,Boxing
+1988,0.0,,,,,1,Boxing
+1992,0.0,,,,,1,Boxing
+1996,0.0,,,,,1,Boxing
+2000,0.0,,,,,1,Boxing
+2004,1.0,,,,,1,Boxing
+2008,0.0,,,,,1,Boxing
+2012,0.0,,,,,1,Boxing
+2016,2.0,,,,,1,Boxing
+2020,0.0,,,,,1,Boxing
+2024,1.0,,,,,1,Boxing
+1896,0.0,,,,,0,Canoeing
+1900,0.0,,,,,0,Canoeing
+1904,0.0,,,,,0,Canoeing
+1906,0.0,,,,,0,Canoeing
+1908,0.0,,,,,0,Canoeing
+1912,0.0,,,,,0,Canoeing
+1920,0.0,,,,,0,Canoeing
+1924,0.0,,,,,0,Canoeing
+1928,0.0,,,,,0,Canoeing
+1932,0.0,,,,,0,Canoeing
+1936,0.0,,,,,1,Canoeing
+1948,0.0,,,,,1,Canoeing
+1952,0.0,,,,,1,Canoeing
+1956,0.0,,,,,1,Canoeing
+1960,0.0,,,,,1,Canoeing
+1964,0.0,,,,,1,Canoeing
+1968,0.0,,,,,1,Canoeing
+1972,0.0,,,,,1,Canoeing
+1976,0.0,,,,,1,Canoeing
+1980,0.0,,,,,1,Canoeing
+1984,0.0,,,,,1,Canoeing
+1988,0.0,,,,,1,Canoeing
+1992,0.0,,,,,1,Canoeing
+1996,0.0,,,,,1,Canoeing
+2000,0.0,,,,,1,Canoeing
+2004,0.0,,,,,1,Canoeing
+2008,1.0,,,,,1,Canoeing
+2012,1.0,,,,,1,Canoeing
+2016,1.0,,,,,1,Canoeing
+2020,0.0,,,,,1,Canoeing
+2024,0.0,,,,,1,Canoeing
+1896,0.0,,,,,0,Cricket
+1900,0.0,0.0,0.012396694214876,0.01,0.8287754140107481,1,Cricket
+1904,0.0,,,,,0,Cricket
+1906,0.0,,,,,0,Cricket
+1908,0.0,,,,,0,Cricket
+1912,0.0,,,,,0,Cricket
+1920,0.0,,,,,0,Cricket
+1924,0.0,,,,,0,Cricket
+1928,0.0,,,,,0,Cricket
+1932,0.0,,,,,0,Cricket
+1936,0.0,,,,,0,Cricket
+1948,0.0,,,,,0,Cricket
+1952,0.0,,,,,0,Cricket
+1956,0.0,,,,,0,Cricket
+1960,0.0,,,,,0,Cricket
+1964,0.0,,,,,0,Cricket
+1968,0.0,,,,,0,Cricket
+1972,0.0,,,,,0,Cricket
+1976,0.0,,,,,0,Cricket
+1980,0.0,,,,,0,Cricket
+1984,0.0,,,,,0,Cricket
+1988,0.0,,,,,0,Cricket
+1992,0.0,,,,,0,Cricket
+1996,0.0,,,,,0,Cricket
+2000,0.0,,,,,0,Cricket
+2004,0.0,,,,,0,Cricket
+2008,0.0,,,,,0,Cricket
+2012,0.0,,,,,0,Cricket
+2016,0.0,,,,,0,Cricket
+2020,0.0,,,,,0,Cricket
+2024,0.0,,,,,0,Cricket
+1896,0.0,,,,,0,Croquet
+1900,0.0,0.3157894736842105,0.0098140495867768,0.005,0.4242640687119285,1,Croquet
+1904,0.0,,,,,0,Croquet
+1906,0.0,,,,,0,Croquet
+1908,0.0,,,,,0,Croquet
+1912,0.0,,,,,0,Croquet
+1920,0.0,,,,,0,Croquet
+1924,0.0,,,,,0,Croquet
+1928,0.0,,,,,0,Croquet
+1932,0.0,,,,,0,Croquet
+1936,0.0,,,,,0,Croquet
+1948,0.0,,,,,0,Croquet
+1952,0.0,,,,,0,Croquet
+1956,0.0,,,,,0,Croquet
+1960,0.0,,,,,0,Croquet
+1964,0.0,,,,,0,Croquet
+1968,0.0,,,,,0,Croquet
+1972,0.0,,,,,0,Croquet
+1976,0.0,,,,,0,Croquet
+1980,0.0,,,,,0,Croquet
+1984,0.0,,,,,0,Croquet
+1988,0.0,,,,,0,Croquet
+1992,0.0,,,,,0,Croquet
+1996,0.0,,,,,0,Croquet
+2000,0.0,,,,,0,Croquet
+2004,0.0,,,,,0,Croquet
+2008,0.0,,,,,0,Croquet
+2012,0.0,,,,,0,Croquet
+2016,0.0,,,,,0,Croquet
+2020,0.0,,,,,0,Croquet
+2024,0.0,,,,,0,Croquet
+1896,0.0,,,,,0,Cross Country Skiing
+1900,0.0,,,,,0,Cross Country Skiing
+1904,0.0,,,,,0,Cross Country Skiing
+1906,0.0,,,,,0,Cross Country Skiing
+1908,0.0,,,,,0,Cross Country Skiing
+1912,0.0,,,,,0,Cross Country Skiing
+1920,0.0,,,,,0,Cross Country Skiing
+1924,0.0,,,,,1,Cross Country Skiing
+1928,0.0,,,,,1,Cross Country Skiing
+1932,0.0,,,,,1,Cross Country Skiing
+1936,0.0,,,,,1,Cross Country Skiing
+1948,0.0,,,,,1,Cross Country Skiing
+1952,0.0,,,,,1,Cross Country Skiing
+1956,0.0,,,,,1,Cross Country Skiing
+1960,0.0,,,,,1,Cross Country Skiing
+1964,0.0,,,,,1,Cross Country Skiing
+1968,0.0,,,,,1,Cross Country Skiing
+1972,0.0,,,,,1,Cross Country Skiing
+1976,0.0,,,,,1,Cross Country Skiing
+1980,0.0,,,,,1,Cross Country Skiing
+1984,0.0,,,,,1,Cross Country Skiing
+1988,0.0,,,,,1,Cross Country Skiing
+1992,0.0,,,,,1,Cross Country Skiing
+1996,0.0,,,,,0,Cross Country Skiing
+2000,0.0,,,,,0,Cross Country Skiing
+2004,0.0,,,,,0,Cross Country Skiing
+2008,0.0,,,,,0,Cross Country Skiing
+2012,0.0,,,,,0,Cross Country Skiing
+2016,0.0,,,,,0,Cross Country Skiing
+2020,0.0,,,,,0,Cross Country Skiing
+2024,0.0,,,,,0,Cross Country Skiing
+1896,0.0,,,,,0,Curling
+1900,0.0,,,,,0,Curling
+1904,0.0,,,,,0,Curling
+1906,0.0,,,,,0,Curling
+1908,0.0,,,,,0,Curling
+1912,0.0,,,,,0,Curling
+1920,0.0,,,,,0,Curling
+1924,0.0,0.0,0.0028104689970138,0.015,0.4677071733467427,1,Curling
+1928,0.0,,,,,0,Curling
+1932,0.0,,,,,0,Curling
+1936,0.0,,,,,0,Curling
+1948,0.0,,,,,0,Curling
+1952,0.0,,,,,0,Curling
+1956,0.0,,,,,0,Curling
+1960,0.0,,,,,0,Curling
+1964,0.0,,,,,0,Curling
+1968,0.0,,,,,0,Curling
+1972,0.0,,,,,0,Curling
+1976,0.0,,,,,0,Curling
+1980,0.0,,,,,0,Curling
+1984,0.0,,,,,0,Curling
+1988,0.0,,,,,0,Curling
+1992,0.0,,,,,0,Curling
+1996,0.0,,,,,0,Curling
+2000,0.0,,,,,0,Curling
+2004,0.0,,,,,0,Curling
+2008,0.0,,,,,0,Curling
+2012,0.0,,,,,0,Curling
+2016,0.0,,,,,0,Curling
+2020,0.0,,,,,0,Curling
+2024,0.0,,,,,0,Curling
+1896,0.0,,,,,1,Cycling
+1900,0.0,,,,,1,Cycling
+1904,0.0,,,,,1,Cycling
+1906,0.0,,,,,1,Cycling
+1908,0.0,,,,,1,Cycling
+1912,0.0,,,,,1,Cycling
+1920,0.0,,,,,1,Cycling
+1924,0.0,,,,,1,Cycling
+1928,0.0,,,,,1,Cycling
+1932,0.0,,,,,1,Cycling
+1936,0.0,,,,,1,Cycling
+1948,0.0,,,,,1,Cycling
+1952,0.0,,,,,1,Cycling
+1956,0.0,,,,,1,Cycling
+1960,0.0,,,,,1,Cycling
+1964,0.0,,,,,1,Cycling
+1968,0.0,,,,,1,Cycling
+1972,2.0,,,,,1,Cycling
+1976,0.0,,,,,1,Cycling
+1980,0.0,,,,,1,Cycling
+1984,0.0,,,,,1,Cycling
+1988,0.0,,,,,1,Cycling
+1992,0.0,,,,,1,Cycling
+1996,0.0,,,,,1,Cycling
+2000,1.0,,,,,1,Cycling
+2004,1.0,,,,,1,Cycling
+2008,4.0,,,,,1,Cycling
+2012,3.0,,,,,1,Cycling
+2016,1.0,,,,,1,Cycling
+2020,0.0,,,,,1,Cycling
+2024,0.0,,,,,1,Cycling
+1896,0.0,,,,,0,Diving
+1900,0.0,,,,,0,Diving
+1904,0.0,,,,,1,Diving
+1906,0.0,,,,,1,Diving
+1908,0.0,,,,,1,Diving
+1912,0.0,,,,,1,Diving
+1920,0.0,,,,,1,Diving
+1924,0.0,,,,,1,Diving
+1928,0.0,,,,,1,Diving
+1932,0.0,,,,,1,Diving
+1936,0.0,,,,,1,Diving
+1948,0.0,,,,,1,Diving
+1952,0.0,,,,,1,Diving
+1956,0.0,,,,,1,Diving
+1960,0.0,,,,,1,Diving
+1964,0.0,,,,,1,Diving
+1968,0.0,,,,,1,Diving
+1972,0.0,,,,,1,Diving
+1976,0.0,,,,,1,Diving
+1980,0.0,,,,,1,Diving
+1984,0.0,,,,,1,Diving
+1988,0.0,,,,,1,Diving
+1992,0.0,,,,,1,Diving
+1996,0.0,,,,,1,Diving
+2000,0.0,,,,,1,Diving
+2004,0.0,,,,,1,Diving
+2008,0.0,,,,,1,Diving
+2012,0.0,,,,,1,Diving
+2016,0.0,,,,,1,Diving
+2020,0.0,,,,,1,Diving
+2024,0.0,,,,,1,Diving
+1896,0.0,,,,,0,Equestrianism
+1900,0.0,,,,,1,Equestrianism
+1904,0.0,,,,,0,Equestrianism
+1906,0.0,,,,,0,Equestrianism
+1908,0.0,,,,,0,Equestrianism
+1912,0.0,,,,,1,Equestrianism
+1920,0.0,,,,,1,Equestrianism
+1924,0.0,,,,,1,Equestrianism
+1928,0.0,,,,,1,Equestrianism
+1932,0.0,,,,,1,Equestrianism
+1936,0.0,,,,,1,Equestrianism
+1948,0.0,,,,,1,Equestrianism
+1952,0.0,,,,,1,Equestrianism
+1956,0.0,,,,,1,Equestrianism
+1960,0.0,,,,,1,Equestrianism
+1964,0.0,,,,,1,Equestrianism
+1968,0.0,,,,,1,Equestrianism
+1972,0.0,,,,,1,Equestrianism
+1976,0.0,,,,,1,Equestrianism
+1980,0.0,,,,,1,Equestrianism
+1984,0.0,,,,,1,Equestrianism
+1988,0.0,,,,,1,Equestrianism
+1992,0.0,,,,,1,Equestrianism
+1996,0.0,,,,,1,Equestrianism
+2000,0.0,,,,,1,Equestrianism
+2004,2.0,,,,,1,Equestrianism
+2008,6.0,,,,,1,Equestrianism
+2012,0.0,,,,,1,Equestrianism
+2016,0.0,,,,,1,Equestrianism
+2020,1.0,,,,,1,Equestrianism
+2024,0.0,,,,,1,Equestrianism
+1896,0.0,,,,,1,Fencing
+1900,0.0,,,,,1,Fencing
+1904,0.0,,,,,1,Fencing
+1906,0.0,,,,,1,Fencing
+1908,0.0,,,,,1,Fencing
+1912,0.0,,,,,1,Fencing
+1920,0.0,,,,,1,Fencing
+1924,0.0,,,,,1,Fencing
+1928,0.0,,,,,1,Fencing
+1932,0.0,,,,,1,Fencing
+1936,0.0,,,,,1,Fencing
+1948,0.0,,,,,1,Fencing
+1952,0.0,,,,,1,Fencing
+1956,0.0,,,,,1,Fencing
+1960,0.0,,,,,1,Fencing
+1964,0.0,,,,,1,Fencing
+1968,0.0,,,,,1,Fencing
+1972,0.0,,,,,1,Fencing
+1976,0.0,,,,,1,Fencing
+1980,0.0,,,,,1,Fencing
+1984,0.0,,,,,1,Fencing
+1988,0.0,,,,,1,Fencing
+1992,0.0,,,,,1,Fencing
+1996,0.0,,,,,1,Fencing
+2000,0.0,,,,,1,Fencing
+2004,0.0,,,,,1,Fencing
+2008,0.0,,,,,1,Fencing
+2012,0.0,,,,,1,Fencing
+2016,0.0,,,,,1,Fencing
+2020,0.0,,,,,1,Fencing
+2024,0.0,,,,,1,Fencing
+1896,0.0,,,,,0,Figure Skating
+1900,0.0,,,,,0,Figure Skating
+1904,0.0,,,,,0,Figure Skating
+1906,0.0,,,,,0,Figure Skating
+1908,0.0,,,,,1,Figure Skating
+1912,0.0,,,,,0,Figure Skating
+1920,0.0,,,,,1,Figure Skating
+1924,0.0,,,,,1,Figure Skating
+1928,0.0,,,,,1,Figure Skating
+1932,0.0,,,,,1,Figure Skating
+1936,0.0,,,,,1,Figure Skating
+1948,0.0,,,,,1,Figure Skating
+1952,0.0,,,,,1,Figure Skating
+1956,0.0,,,,,1,Figure Skating
+1960,0.0,,,,,1,Figure Skating
+1964,0.0,,,,,1,Figure Skating
+1968,0.0,,,,,1,Figure Skating
+1972,0.0,,,,,1,Figure Skating
+1976,0.0,,,,,1,Figure Skating
+1980,0.0,,,,,1,Figure Skating
+1984,0.0,,,,,1,Figure Skating
+1988,0.0,,,,,1,Figure Skating
+1992,0.0,,,,,1,Figure Skating
+1996,0.0,,,,,0,Figure Skating
+2000,0.0,,,,,0,Figure Skating
+2004,0.0,,,,,0,Figure Skating
+2008,0.0,,,,,0,Figure Skating
+2012,0.0,,,,,0,Figure Skating
+2016,0.0,,,,,0,Figure Skating
+2020,0.0,,,,,0,Figure Skating
+2024,0.0,,,,,0,Figure Skating
+1896,0.0,,,,,0,Football
+1900,0.0,,,,,1,Football
+1904,0.0,,,,,1,Football
+1906,0.0,,,,,1,Football
+1908,0.0,,,,,1,Football
+1912,0.0,,,,,1,Football
+1920,0.0,,,,,1,Football
+1924,0.0,,,,,1,Football
+1928,0.0,,,,,1,Football
+1932,0.0,,,,,0,Football
+1936,0.0,,,,,1,Football
+1948,0.0,,,,,1,Football
+1952,0.0,,,,,1,Football
+1956,0.0,,,,,1,Football
+1960,0.0,,,,,1,Football
+1964,0.0,,,,,1,Football
+1968,0.0,,,,,1,Football
+1972,0.0,,,,,1,Football
+1976,0.0,,,,,1,Football
+1980,0.0,,,,,1,Football
+1984,0.0,,,,,1,Football
+1988,0.0,,,,,1,Football
+1992,0.0,,,,,1,Football
+1996,0.0,,,,,1,Football
+2000,0.0,,,,,1,Football
+2004,0.0,,,,,1,Football
+2008,0.0,,,,,1,Football
+2012,0.0,,,,,1,Football
+2016,0.0,,,,,1,Football
+2020,0.0,,,,,1,Football
+2024,0.0,,,,,1,Football
+1896,0.0,,,,,0,Freestyle Skiing
+1900,0.0,,,,,0,Freestyle Skiing
+1904,0.0,,,,,0,Freestyle Skiing
+1906,0.0,,,,,0,Freestyle Skiing
+1908,0.0,,,,,0,Freestyle Skiing
+1912,0.0,,,,,0,Freestyle Skiing
+1920,0.0,,,,,0,Freestyle Skiing
+1924,0.0,,,,,0,Freestyle Skiing
+1928,0.0,,,,,0,Freestyle Skiing
+1932,0.0,,,,,0,Freestyle Skiing
+1936,0.0,,,,,0,Freestyle Skiing
+1948,0.0,,,,,0,Freestyle Skiing
+1952,0.0,,,,,0,Freestyle Skiing
+1956,0.0,,,,,0,Freestyle Skiing
+1960,0.0,,,,,0,Freestyle Skiing
+1964,0.0,,,,,0,Freestyle Skiing
+1968,0.0,,,,,0,Freestyle Skiing
+1972,0.0,,,,,0,Freestyle Skiing
+1976,0.0,,,,,0,Freestyle Skiing
+1980,0.0,,,,,0,Freestyle Skiing
+1984,0.0,,,,,0,Freestyle Skiing
+1988,0.0,,,,,0,Freestyle Skiing
+1992,0.0,0.3380281690140845,0.0043258392737464,0.09,0.7071301593222451,1,Freestyle Skiing
+1996,0.0,,,,,0,Freestyle Skiing
+2000,0.0,,,,,0,Freestyle Skiing
+2004,0.0,,,,,0,Freestyle Skiing
+2008,0.0,,,,,0,Freestyle Skiing
+2012,0.0,,,,,0,Freestyle Skiing
+2016,0.0,,,,,0,Freestyle Skiing
+2020,0.0,,,,,0,Freestyle Skiing
+2024,0.0,,,,,0,Freestyle Skiing
+1896,0.0,,,,,0,Golf
+1900,0.0,,,,,1,Golf
+1904,0.0,,,,,1,Golf
+1906,0.0,,,,,0,Golf
+1908,0.0,,,,,0,Golf
+1912,0.0,,,,,0,Golf
+1920,0.0,,,,,0,Golf
+1924,0.0,,,,,0,Golf
+1928,0.0,,,,,0,Golf
+1932,0.0,,,,,0,Golf
+1936,0.0,,,,,0,Golf
+1948,0.0,,,,,0,Golf
+1952,0.0,,,,,0,Golf
+1956,0.0,,,,,0,Golf
+1960,0.0,,,,,0,Golf
+1964,0.0,,,,,0,Golf
+1968,0.0,,,,,0,Golf
+1972,0.0,,,,,0,Golf
+1976,0.0,,,,,0,Golf
+1980,0.0,,,,,0,Golf
+1984,0.0,,,,,0,Golf
+1988,0.0,,,,,0,Golf
+1992,0.0,,,,,0,Golf
+1996,0.0,,,,,0,Golf
+2000,0.0,,,,,0,Golf
+2004,0.0,,,,,0,Golf
+2008,0.0,,,,,0,Golf
+2012,0.0,,,,,0,Golf
+2016,0.0,,,,,1,Golf
+2020,0.0,,,,,1,Golf
+2024,0.0,,,,,1,Golf
+1896,0.0,,,,,1,Gymnastics
+1900,0.0,,,,,1,Gymnastics
+1904,0.0,,,,,1,Gymnastics
+1906,0.0,,,,,1,Gymnastics
+1908,0.0,,,,,1,Gymnastics
+1912,0.0,,,,,1,Gymnastics
+1920,0.0,,,,,1,Gymnastics
+1924,0.0,,,,,1,Gymnastics
+1928,0.0,,,,,1,Gymnastics
+1932,0.0,,,,,1,Gymnastics
+1936,0.0,,,,,1,Gymnastics
+1948,0.0,,,,,1,Gymnastics
+1952,0.0,,,,,1,Gymnastics
+1956,0.0,,,,,1,Gymnastics
+1960,0.0,,,,,1,Gymnastics
+1964,0.0,,,,,1,Gymnastics
+1968,0.0,,,,,1,Gymnastics
+1972,0.0,,,,,1,Gymnastics
+1976,0.0,,,,,1,Gymnastics
+1980,0.0,,,,,1,Gymnastics
+1984,0.0,,,,,1,Gymnastics
+1988,0.0,,,,,1,Gymnastics
+1992,0.0,,,,,1,Gymnastics
+1996,0.0,,,,,1,Gymnastics
+2000,1.0,,,,,1,Gymnastics
+2004,0.0,,,,,1,Gymnastics
+2008,1.0,,,,,1,Gymnastics
+2012,1.0,,,,,1,Gymnastics
+2016,0.0,,,,,1,Gymnastics
+2020,0.0,,,,,1,Gymnastics
+2024,0.0,,,,,1,Gymnastics
+1896,0.0,,,,,0,Handball
+1900,0.0,,,,,0,Handball
+1904,0.0,,,,,0,Handball
+1906,0.0,,,,,0,Handball
+1908,0.0,,,,,0,Handball
+1912,0.0,,,,,0,Handball
+1920,0.0,,,,,0,Handball
+1924,0.0,,,,,0,Handball
+1928,0.0,,,,,0,Handball
+1932,0.0,,,,,0,Handball
+1936,0.0,,,,,1,Handball
+1948,0.0,,,,,0,Handball
+1952,0.0,,,,,0,Handball
+1956,0.0,,,,,0,Handball
+1960,0.0,,,,,0,Handball
+1964,0.0,,,,,0,Handball
+1968,0.0,,,,,0,Handball
+1972,0.0,,,,,1,Handball
+1976,0.0,,,,,1,Handball
+1980,0.0,,,,,1,Handball
+1984,0.0,,,,,1,Handball
+1988,0.0,,,,,1,Handball
+1992,0.0,,,,,1,Handball
+1996,0.0,,,,,1,Handball
+2000,0.0,,,,,1,Handball
+2004,0.0,,,,,1,Handball
+2008,0.0,,,,,1,Handball
+2012,0.0,,,,,1,Handball
+2016,0.0,,,,,1,Handball
+2020,0.0,,,,,1,Handball
+2024,0.0,,,,,1,Handball
+1896,0.0,,,,,0,Hockey
+1900,0.0,,,,,0,Hockey
+1904,0.0,,,,,0,Hockey
+1906,0.0,,,,,0,Hockey
+1908,0.0,,,,,1,Hockey
+1912,0.0,,,,,0,Hockey
+1920,0.0,,,,,1,Hockey
+1924,0.0,,,,,0,Hockey
+1928,0.0,,,,,1,Hockey
+1932,0.0,,,,,1,Hockey
+1936,0.0,,,,,1,Hockey
+1948,0.0,,,,,1,Hockey
+1952,0.0,,,,,1,Hockey
+1956,0.0,,,,,1,Hockey
+1960,0.0,,,,,1,Hockey
+1964,0.0,,,,,1,Hockey
+1968,0.0,,,,,1,Hockey
+1972,0.0,,,,,1,Hockey
+1976,0.0,,,,,1,Hockey
+1980,0.0,,,,,1,Hockey
+1984,0.0,,,,,1,Hockey
+1988,0.0,,,,,1,Hockey
+1992,0.0,,,,,1,Hockey
+1996,0.0,,,,,1,Hockey
+2000,0.0,,,,,1,Hockey
+2004,0.0,,,,,1,Hockey
+2008,0.0,,,,,1,Hockey
+2012,0.0,,,,,1,Hockey
+2016,0.0,,,,,1,Hockey
+2020,0.0,,,,,1,Hockey
+2024,0.0,,,,,1,Hockey
+1896,0.0,,,,,0,Ice Hockey
+1900,0.0,,,,,0,Ice Hockey
+1904,0.0,,,,,0,Ice Hockey
+1906,0.0,,,,,0,Ice Hockey
+1908,0.0,,,,,0,Ice Hockey
+1912,0.0,,,,,0,Ice Hockey
+1920,0.0,,,,,1,Ice Hockey
+1924,0.0,,,,,1,Ice Hockey
+1928,0.0,,,,,1,Ice Hockey
+1932,0.0,,,,,1,Ice Hockey
+1936,0.0,,,,,1,Ice Hockey
+1948,0.0,,,,,1,Ice Hockey
+1952,0.0,,,,,1,Ice Hockey
+1956,0.0,,,,,1,Ice Hockey
+1960,0.0,,,,,1,Ice Hockey
+1964,0.0,,,,,1,Ice Hockey
+1968,0.0,,,,,1,Ice Hockey
+1972,0.0,,,,,1,Ice Hockey
+1976,0.0,,,,,1,Ice Hockey
+1980,0.0,,,,,1,Ice Hockey
+1984,0.0,,,,,1,Ice Hockey
+1988,0.0,,,,,1,Ice Hockey
+1992,0.0,,,,,1,Ice Hockey
+1996,0.0,,,,,0,Ice Hockey
+2000,0.0,,,,,0,Ice Hockey
+2004,0.0,,,,,0,Ice Hockey
+2008,0.0,,,,,0,Ice Hockey
+2012,0.0,,,,,0,Ice Hockey
+2016,0.0,,,,,0,Ice Hockey
+2020,0.0,,,,,0,Ice Hockey
+2024,0.0,,,,,0,Ice Hockey
+1896,0.0,,,,,0,Jeu De Paume
+1900,0.0,,,,,0,Jeu De Paume
+1904,0.0,,,,,0,Jeu De Paume
+1906,0.0,,,,,0,Jeu De Paume
+1908,0.0,0.0,0.0035472428248951,0.01,0.5160420110886788,1,Jeu De Paume
+1912,0.0,,,,,0,Jeu De Paume
+1920,0.0,,,,,0,Jeu De Paume
+1924,0.0,,,,,0,Jeu De Paume
+1928,0.0,,,,,0,Jeu De Paume
+1932,0.0,,,,,0,Jeu De Paume
+1936,0.0,,,,,0,Jeu De Paume
+1948,0.0,,,,,0,Jeu De Paume
+1952,0.0,,,,,0,Jeu De Paume
+1956,0.0,,,,,0,Jeu De Paume
+1960,0.0,,,,,0,Jeu De Paume
+1964,0.0,,,,,0,Jeu De Paume
+1968,0.0,,,,,0,Jeu De Paume
+1972,0.0,,,,,0,Jeu De Paume
+1976,0.0,,,,,0,Jeu De Paume
+1980,0.0,,,,,0,Jeu De Paume
+1984,0.0,,,,,0,Jeu De Paume
+1988,0.0,,,,,0,Jeu De Paume
+1992,0.0,,,,,0,Jeu De Paume
+1996,0.0,,,,,0,Jeu De Paume
+2000,0.0,,,,,0,Jeu De Paume
+2004,0.0,,,,,0,Jeu De Paume
+2008,0.0,,,,,0,Jeu De Paume
+2012,0.0,,,,,0,Jeu De Paume
+2016,0.0,,,,,0,Jeu De Paume
+2020,0.0,,,,,0,Jeu De Paume
+2024,0.0,,,,,0,Jeu De Paume
+1896,0.0,,,,,0,Judo
+1900,0.0,,,,,0,Judo
+1904,0.0,,,,,0,Judo
+1906,0.0,,,,,0,Judo
+1908,0.0,,,,,0,Judo
+1912,0.0,,,,,0,Judo
+1920,0.0,,,,,0,Judo
+1924,0.0,,,,,0,Judo
+1928,0.0,,,,,0,Judo
+1932,0.0,,,,,0,Judo
+1936,0.0,,,,,0,Judo
+1948,0.0,,,,,0,Judo
+1952,0.0,,,,,0,Judo
+1956,0.0,,,,,0,Judo
+1960,0.0,,,,,0,Judo
+1964,0.0,,,,,1,Judo
+1968,0.0,,,,,0,Judo
+1972,1.0,,,,,1,Judo
+1976,0.0,,,,,1,Judo
+1980,0.0,,,,,1,Judo
+1984,0.0,,,,,1,Judo
+1988,1.0,,,,,1,Judo
+1992,0.0,,,,,1,Judo
+1996,0.0,,,,,1,Judo
+2000,0.0,,,,,1,Judo
+2004,0.0,,,,,1,Judo
+2008,0.0,,,,,1,Judo
+2012,1.0,,,,,1,Judo
+2016,0.0,,,,,1,Judo
+2020,0.0,,,,,1,Judo
+2024,2.0,,,,,1,Judo
+1896,0.0,,,,,0,Lacrosse
+1900,0.0,,,,,0,Lacrosse
+1904,0.0,0.0,0.0276710222905457,0.01,0.5646533589019275,1,Lacrosse
+1906,0.0,,,,,0,Lacrosse
+1908,0.0,0.0,0.0077394388906804,0.01,0.6203454424197545,1,Lacrosse
+1912,0.0,,,,,0,Lacrosse
+1920,0.0,,,,,0,Lacrosse
+1924,0.0,,,,,0,Lacrosse
+1928,0.0,,,,,0,Lacrosse
+1932,0.0,,,,,0,Lacrosse
+1936,0.0,,,,,0,Lacrosse
+1948,0.0,,,,,0,Lacrosse
+1952,0.0,,,,,0,Lacrosse
+1956,0.0,,,,,0,Lacrosse
+1960,0.0,,,,,0,Lacrosse
+1964,0.0,,,,,0,Lacrosse
+1968,0.0,,,,,0,Lacrosse
+1972,0.0,,,,,0,Lacrosse
+1976,0.0,,,,,0,Lacrosse
+1980,0.0,,,,,0,Lacrosse
+1984,0.0,,,,,0,Lacrosse
+1988,0.0,,,,,0,Lacrosse
+1992,0.0,,,,,0,Lacrosse
+1996,0.0,,,,,0,Lacrosse
+2000,0.0,,,,,0,Lacrosse
+2004,0.0,,,,,0,Lacrosse
+2008,0.0,,,,,0,Lacrosse
+2012,0.0,,,,,0,Lacrosse
+2016,0.0,,,,,0,Lacrosse
+2020,0.0,,,,,0,Lacrosse
+2024,0.0,,,,,0,Lacrosse
+1896,0.0,,,,,0,Luge
+1900,0.0,,,,,0,Luge
+1904,0.0,,,,,0,Luge
+1906,0.0,,,,,0,Luge
+1908,0.0,,,,,0,Luge
+1912,0.0,,,,,0,Luge
+1920,0.0,,,,,0,Luge
+1924,0.0,,,,,0,Luge
+1928,0.0,,,,,0,Luge
+1932,0.0,,,,,0,Luge
+1936,0.0,,,,,0,Luge
+1948,0.0,,,,,0,Luge
+1952,0.0,,,,,0,Luge
+1956,0.0,,,,,0,Luge
+1960,0.0,,,,,0,Luge
+1964,0.0,,,,,1,Luge
+1968,0.0,,,,,1,Luge
+1972,0.0,,,,,1,Luge
+1976,0.0,,,,,1,Luge
+1980,0.0,,,,,1,Luge
+1984,0.0,,,,,1,Luge
+1988,0.0,,,,,1,Luge
+1992,0.0,,,,,1,Luge
+1996,0.0,,,,,0,Luge
+2000,0.0,,,,,0,Luge
+2004,0.0,,,,,0,Luge
+2008,0.0,,,,,0,Luge
+2012,0.0,,,,,0,Luge
+2016,0.0,,,,,0,Luge
+2020,0.0,,,,,0,Luge
+2024,0.0,,,,,0,Luge
+1896,0.0,,,,,0,Military Ski Patrol
+1900,0.0,,,,,0,Military Ski Patrol
+1904,0.0,,,,,0,Military Ski Patrol
+1906,0.0,,,,,0,Military Ski Patrol
+1908,0.0,,,,,0,Military Ski Patrol
+1912,0.0,,,,,0,Military Ski Patrol
+1920,0.0,,,,,0,Military Ski Patrol
+1924,0.0,0.0,0.0042157034955208,0.03,0.677202072477852,1,Military Ski Patrol
+1928,0.0,,,,,0,Military Ski Patrol
+1932,0.0,,,,,0,Military Ski Patrol
+1936,0.0,,,,,0,Military Ski Patrol
+1948,0.0,,,,,0,Military Ski Patrol
+1952,0.0,,,,,0,Military Ski Patrol
+1956,0.0,,,,,0,Military Ski Patrol
+1960,0.0,,,,,0,Military Ski Patrol
+1964,0.0,,,,,0,Military Ski Patrol
+1968,0.0,,,,,0,Military Ski Patrol
+1972,0.0,,,,,0,Military Ski Patrol
+1976,0.0,,,,,0,Military Ski Patrol
+1980,0.0,,,,,0,Military Ski Patrol
+1984,0.0,,,,,0,Military Ski Patrol
+1988,0.0,,,,,0,Military Ski Patrol
+1992,0.0,,,,,0,Military Ski Patrol
+1996,0.0,,,,,0,Military Ski Patrol
+2000,0.0,,,,,0,Military Ski Patrol
+2004,0.0,,,,,0,Military Ski Patrol
+2008,0.0,,,,,0,Military Ski Patrol
+2012,0.0,,,,,0,Military Ski Patrol
+2016,0.0,,,,,0,Military Ski Patrol
+2020,0.0,,,,,0,Military Ski Patrol
+2024,0.0,,,,,0,Military Ski Patrol
+1896,0.0,,,,,0,Modern Pentathlon
+1900,0.0,,,,,0,Modern Pentathlon
+1904,0.0,,,,,0,Modern Pentathlon
+1906,0.0,,,,,0,Modern Pentathlon
+1908,0.0,,,,,0,Modern Pentathlon
+1912,0.0,,,,,1,Modern Pentathlon
+1920,0.0,,,,,1,Modern Pentathlon
+1924,0.0,,,,,1,Modern Pentathlon
+1928,0.0,,,,,1,Modern Pentathlon
+1932,0.0,,,,,1,Modern Pentathlon
+1936,0.0,,,,,1,Modern Pentathlon
+1948,0.0,,,,,1,Modern Pentathlon
+1952,0.0,,,,,1,Modern Pentathlon
+1956,0.0,,,,,1,Modern Pentathlon
+1960,0.0,,,,,1,Modern Pentathlon
+1964,0.0,,,,,1,Modern Pentathlon
+1968,1.0,,,,,1,Modern Pentathlon
+1972,0.0,,,,,1,Modern Pentathlon
+1976,0.0,,,,,1,Modern Pentathlon
+1980,0.0,,,,,1,Modern Pentathlon
+1984,0.0,,,,,1,Modern Pentathlon
+1988,2.0,,,,,1,Modern Pentathlon
+1992,0.0,,,,,1,Modern Pentathlon
+1996,0.0,,,,,1,Modern Pentathlon
+2000,0.0,,,,,1,Modern Pentathlon
+2004,0.0,,,,,1,Modern Pentathlon
+2008,1.0,,,,,1,Modern Pentathlon
+2012,0.0,,,,,1,Modern Pentathlon
+2016,0.0,,,,,1,Modern Pentathlon
+2020,0.0,,,,,1,Modern Pentathlon
+2024,0.0,,,,,1,Modern Pentathlon
+1896,0.0,,,,,0,Motorboating
+1900,0.0,,,,,0,Motorboating
+1904,0.0,,,,,0,Motorboating
+1906,0.0,,,,,0,Motorboating
+1908,0.0,0.0588235294117647,0.0054821025475653,0.01,0.6,1,Motorboating
+1912,0.0,,,,,0,Motorboating
+1920,0.0,,,,,0,Motorboating
+1924,0.0,,,,,0,Motorboating
+1928,0.0,,,,,0,Motorboating
+1932,0.0,,,,,0,Motorboating
+1936,0.0,,,,,0,Motorboating
+1948,0.0,,,,,0,Motorboating
+1952,0.0,,,,,0,Motorboating
+1956,0.0,,,,,0,Motorboating
+1960,0.0,,,,,0,Motorboating
+1964,0.0,,,,,0,Motorboating
+1968,0.0,,,,,0,Motorboating
+1972,0.0,,,,,0,Motorboating
+1976,0.0,,,,,0,Motorboating
+1980,0.0,,,,,0,Motorboating
+1984,0.0,,,,,0,Motorboating
+1988,0.0,,,,,0,Motorboating
+1992,0.0,,,,,0,Motorboating
+1996,0.0,,,,,0,Motorboating
+2000,0.0,,,,,0,Motorboating
+2004,0.0,,,,,0,Motorboating
+2008,0.0,,,,,0,Motorboating
+2012,0.0,,,,,0,Motorboating
+2016,0.0,,,,,0,Motorboating
+2020,0.0,,,,,0,Motorboating
+2024,0.0,,,,,0,Motorboating
+1896,0.0,,,,,0,Nordic Combined
+1900,0.0,,,,,0,Nordic Combined
+1904,0.0,,,,,0,Nordic Combined
+1906,0.0,,,,,0,Nordic Combined
+1908,0.0,,,,,0,Nordic Combined
+1912,0.0,,,,,0,Nordic Combined
+1920,0.0,,,,,0,Nordic Combined
+1924,0.0,,,,,1,Nordic Combined
+1928,0.0,,,,,1,Nordic Combined
+1932,0.0,,,,,1,Nordic Combined
+1936,0.0,,,,,1,Nordic Combined
+1948,0.0,,,,,1,Nordic Combined
+1952,0.0,,,,,1,Nordic Combined
+1956,0.0,,,,,1,Nordic Combined
+1960,0.0,,,,,1,Nordic Combined
+1964,0.0,,,,,1,Nordic Combined
+1968,0.0,,,,,1,Nordic Combined
+1972,0.0,,,,,1,Nordic Combined
+1976,0.0,,,,,1,Nordic Combined
+1980,0.0,,,,,1,Nordic Combined
+1984,0.0,,,,,1,Nordic Combined
+1988,0.0,,,,,1,Nordic Combined
+1992,0.0,,,,,1,Nordic Combined
+1996,0.0,,,,,0,Nordic Combined
+2000,0.0,,,,,0,Nordic Combined
+2004,0.0,,,,,0,Nordic Combined
+2008,0.0,,,,,0,Nordic Combined
+2012,0.0,,,,,0,Nordic Combined
+2016,0.0,,,,,0,Nordic Combined
+2020,0.0,,,,,0,Nordic Combined
+2024,0.0,,,,,0,Nordic Combined
+1896,0.0,,,,,0,Polo
+1900,0.0,,,,,1,Polo
+1904,0.0,,,,,0,Polo
+1906,0.0,,,,,0,Polo
+1908,0.0,,,,,1,Polo
+1912,0.0,,,,,0,Polo
+1920,0.0,,,,,1,Polo
+1924,0.0,,,,,1,Polo
+1928,0.0,,,,,0,Polo
+1932,0.0,,,,,0,Polo
+1936,0.0,,,,,1,Polo
+1948,0.0,,,,,0,Polo
+1952,0.0,,,,,0,Polo
+1956,0.0,,,,,0,Polo
+1960,0.0,,,,,0,Polo
+1964,0.0,,,,,0,Polo
+1968,0.0,,,,,0,Polo
+1972,0.0,,,,,0,Polo
+1976,0.0,,,,,0,Polo
+1980,0.0,,,,,0,Polo
+1984,0.0,,,,,0,Polo
+1988,0.0,,,,,0,Polo
+1992,0.0,,,,,0,Polo
+1996,0.0,,,,,0,Polo
+2000,0.0,,,,,0,Polo
+2004,0.0,,,,,0,Polo
+2008,0.0,,,,,0,Polo
+2012,0.0,,,,,0,Polo
+2016,0.0,,,,,0,Polo
+2020,0.0,,,,,0,Polo
+2024,0.0,,,,,0,Polo
+1896,0.0,,,,,0,Racquets
+1900,0.0,,,,,0,Racquets
+1904,0.0,,,,,0,Racquets
+1906,0.0,,,,,0,Racquets
+1908,0.0,0.0,0.0038697194453402,0.005,0.5039526306789696,1,Racquets
+1912,0.0,,,,,0,Racquets
+1920,0.0,,,,,0,Racquets
+1924,0.0,,,,,0,Racquets
+1928,0.0,,,,,0,Racquets
+1932,0.0,,,,,0,Racquets
+1936,0.0,,,,,0,Racquets
+1948,0.0,,,,,0,Racquets
+1952,0.0,,,,,0,Racquets
+1956,0.0,,,,,0,Racquets
+1960,0.0,,,,,0,Racquets
+1964,0.0,,,,,0,Racquets
+1968,0.0,,,,,0,Racquets
+1972,0.0,,,,,0,Racquets
+1976,0.0,,,,,0,Racquets
+1980,0.0,,,,,0,Racquets
+1984,0.0,,,,,0,Racquets
+1988,0.0,,,,,0,Racquets
+1992,0.0,,,,,0,Racquets
+1996,0.0,,,,,0,Racquets
+2000,0.0,,,,,0,Racquets
+2004,0.0,,,,,0,Racquets
+2008,0.0,,,,,0,Racquets
+2012,0.0,,,,,0,Racquets
+2016,0.0,,,,,0,Racquets
+2020,0.0,,,,,0,Racquets
+2024,0.0,,,,,0,Racquets
+1896,0.0,,,,,0,Rhythmic Gymnastics
+1900,0.0,,,,,0,Rhythmic Gymnastics
+1904,0.0,,,,,0,Rhythmic Gymnastics
+1906,0.0,,,,,0,Rhythmic Gymnastics
+1908,0.0,,,,,0,Rhythmic Gymnastics
+1912,0.0,,,,,0,Rhythmic Gymnastics
+1920,0.0,,,,,0,Rhythmic Gymnastics
+1924,0.0,,,,,0,Rhythmic Gymnastics
+1928,0.0,,,,,0,Rhythmic Gymnastics
+1932,0.0,,,,,0,Rhythmic Gymnastics
+1936,0.0,,,,,0,Rhythmic Gymnastics
+1948,0.0,,,,,0,Rhythmic Gymnastics
+1952,0.0,,,,,0,Rhythmic Gymnastics
+1956,0.0,,,,,0,Rhythmic Gymnastics
+1960,0.0,,,,,0,Rhythmic Gymnastics
+1964,0.0,,,,,0,Rhythmic Gymnastics
+1968,0.0,,,,,0,Rhythmic Gymnastics
+1972,0.0,,,,,0,Rhythmic Gymnastics
+1976,0.0,,,,,0,Rhythmic Gymnastics
+1980,0.0,,,,,0,Rhythmic Gymnastics
+1984,0.0,,,,,1,Rhythmic Gymnastics
+1988,0.0,,,,,1,Rhythmic Gymnastics
+1992,0.0,,,,,1,Rhythmic Gymnastics
+1996,0.0,,,,,1,Rhythmic Gymnastics
+2000,0.0,,,,,1,Rhythmic Gymnastics
+2004,0.0,,,,,1,Rhythmic Gymnastics
+2008,0.0,,,,,1,Rhythmic Gymnastics
+2012,0.0,,,,,1,Rhythmic Gymnastics
+2016,0.0,,,,,1,Rhythmic Gymnastics
+2020,0.0,,,,,0,Rhythmic Gymnastics
+2024,0.0,,,,,0,Rhythmic Gymnastics
+1896,0.0,,,,,0,Roque
+1900,0.0,,,,,0,Roque
+1904,0.0,0.0,0.0030745580322828,0.005,0.6666666666666666,1,Roque
+1906,0.0,,,,,0,Roque
+1908,0.0,,,,,0,Roque
+1912,0.0,,,,,0,Roque
+1920,0.0,,,,,0,Roque
+1924,0.0,,,,,0,Roque
+1928,0.0,,,,,0,Roque
+1932,0.0,,,,,0,Roque
+1936,0.0,,,,,0,Roque
+1948,0.0,,,,,0,Roque
+1952,0.0,,,,,0,Roque
+1956,0.0,,,,,0,Roque
+1960,0.0,,,,,0,Roque
+1964,0.0,,,,,0,Roque
+1968,0.0,,,,,0,Roque
+1972,0.0,,,,,0,Roque
+1976,0.0,,,,,0,Roque
+1980,0.0,,,,,0,Roque
+1984,0.0,,,,,0,Roque
+1988,0.0,,,,,0,Roque
+1992,0.0,,,,,0,Roque
+1996,0.0,,,,,0,Roque
+2000,0.0,,,,,0,Roque
+2004,0.0,,,,,0,Roque
+2008,0.0,,,,,0,Roque
+2012,0.0,,,,,0,Roque
+2016,0.0,,,,,0,Roque
+2020,0.0,,,,,0,Roque
+2024,0.0,,,,,0,Roque
+1896,0.0,,,,,0,Rowing
+1900,0.0,,,,,1,Rowing
+1904,0.0,,,,,1,Rowing
+1906,0.0,,,,,1,Rowing
+1908,0.0,,,,,1,Rowing
+1912,0.0,,,,,1,Rowing
+1920,0.0,,,,,1,Rowing
+1924,0.0,,,,,1,Rowing
+1928,0.0,,,,,1,Rowing
+1932,0.0,,,,,1,Rowing
+1936,0.0,,,,,1,Rowing
+1948,0.0,,,,,1,Rowing
+1952,0.0,,,,,1,Rowing
+1956,0.0,,,,,1,Rowing
+1960,0.0,,,,,1,Rowing
+1964,0.0,,,,,1,Rowing
+1968,0.0,,,,,1,Rowing
+1972,0.0,,,,,1,Rowing
+1976,0.0,,,,,1,Rowing
+1980,0.0,,,,,1,Rowing
+1984,0.0,,,,,1,Rowing
+1988,0.0,,,,,1,Rowing
+1992,0.0,,,,,1,Rowing
+1996,0.0,,,,,1,Rowing
+2000,1.0,,,,,1,Rowing
+2004,1.0,,,,,1,Rowing
+2008,0.0,,,,,1,Rowing
+2012,1.0,,,,,1,Rowing
+2016,1.0,,,,,1,Rowing
+2020,0.0,,,,,1,Rowing
+2024,0.0,,,,,1,Rowing
+1896,0.0,,,,,0,Rugby
+1900,0.0,,,,,1,Rugby
+1904,0.0,,,,,0,Rugby
+1906,0.0,,,,,0,Rugby
+1908,0.0,,,,,1,Rugby
+1912,0.0,,,,,0,Rugby
+1920,0.0,,,,,1,Rugby
+1924,0.0,,,,,1,Rugby
+1928,0.0,,,,,0,Rugby
+1932,0.0,,,,,0,Rugby
+1936,0.0,,,,,0,Rugby
+1948,0.0,,,,,0,Rugby
+1952,0.0,,,,,0,Rugby
+1956,0.0,,,,,0,Rugby
+1960,0.0,,,,,0,Rugby
+1964,0.0,,,,,0,Rugby
+1968,0.0,,,,,0,Rugby
+1972,0.0,,,,,0,Rugby
+1976,0.0,,,,,0,Rugby
+1980,0.0,,,,,0,Rugby
+1984,0.0,,,,,0,Rugby
+1988,0.0,,,,,0,Rugby
+1992,0.0,,,,,0,Rugby
+1996,0.0,,,,,0,Rugby
+2000,0.0,,,,,0,Rugby
+2004,0.0,,,,,0,Rugby
+2008,0.0,,,,,0,Rugby
+2012,0.0,,,,,0,Rugby
+2016,0.0,,,,,0,Rugby
+2020,0.0,,,,,1,Rugby
+2024,0.0,,,,,0,Rugby
+1896,0.0,,,,,0,Rugby Sevens
+1900,0.0,,,,,0,Rugby Sevens
+1904,0.0,,,,,0,Rugby Sevens
+1906,0.0,,,,,0,Rugby Sevens
+1908,0.0,,,,,0,Rugby Sevens
+1912,0.0,,,,,0,Rugby Sevens
+1920,0.0,,,,,0,Rugby Sevens
+1924,0.0,,,,,0,Rugby Sevens
+1928,0.0,,,,,0,Rugby Sevens
+1932,0.0,,,,,0,Rugby Sevens
+1936,0.0,,,,,0,Rugby Sevens
+1948,0.0,,,,,0,Rugby Sevens
+1952,0.0,,,,,0,Rugby Sevens
+1956,0.0,,,,,0,Rugby Sevens
+1960,0.0,,,,,0,Rugby Sevens
+1964,0.0,,,,,0,Rugby Sevens
+1968,0.0,,,,,0,Rugby Sevens
+1972,0.0,,,,,0,Rugby Sevens
+1976,0.0,,,,,0,Rugby Sevens
+1980,0.0,,,,,0,Rugby Sevens
+1984,0.0,,,,,0,Rugby Sevens
+1988,0.0,,,,,0,Rugby Sevens
+1992,0.0,,,,,0,Rugby Sevens
+1996,0.0,,,,,0,Rugby Sevens
+2000,0.0,,,,,0,Rugby Sevens
+2004,0.0,,,,,0,Rugby Sevens
+2008,0.0,,,,,0,Rugby Sevens
+2012,0.0,,,,,0,Rugby Sevens
+2016,0.0,0.4949832775919732,0.0218439509059029,0.07,0.6744446589315136,1,Rugby Sevens
+2020,0.0,,,,,0,Rugby Sevens
+2024,0.0,0.5,0.0282463711259317,,,1,Rugby Sevens
+1896,0.0,,,,,0,Sailing
+1900,0.0,,,,,1,Sailing
+1904,0.0,,,,,0,Sailing
+1906,0.0,,,,,0,Sailing
+1908,0.0,,,,,1,Sailing
+1912,0.0,,,,,1,Sailing
+1920,0.0,,,,,1,Sailing
+1924,0.0,,,,,1,Sailing
+1928,0.0,,,,,1,Sailing
+1932,0.0,,,,,1,Sailing
+1936,0.0,,,,,1,Sailing
+1948,0.0,,,,,1,Sailing
+1952,0.0,,,,,1,Sailing
+1956,0.0,,,,,1,Sailing
+1960,0.0,,,,,1,Sailing
+1964,0.0,,,,,1,Sailing
+1968,0.0,,,,,1,Sailing
+1972,0.0,,,,,1,Sailing
+1976,1.0,,,,,1,Sailing
+1980,0.0,,,,,1,Sailing
+1984,0.0,,,,,1,Sailing
+1988,0.0,,,,,1,Sailing
+1992,0.0,,,,,1,Sailing
+1996,0.0,,,,,1,Sailing
+2000,0.0,,,,,1,Sailing
+2004,0.0,,,,,1,Sailing
+2008,0.0,,,,,1,Sailing
+2012,0.0,,,,,1,Sailing
+2016,0.0,,,,,1,Sailing
+2020,0.0,,,,,1,Sailing
+2024,0.0,,,,,1,Sailing
+1896,0.0,,,,,1,Shooting
+1900,0.0,,,,,1,Shooting
+1904,0.0,,,,,0,Shooting
+1906,0.0,,,,,1,Shooting
+1908,0.0,,,,,1,Shooting
+1912,0.0,,,,,1,Shooting
+1920,0.0,,,,,1,Shooting
+1924,0.0,,,,,1,Shooting
+1928,0.0,,,,,0,Shooting
+1932,0.0,,,,,1,Shooting
+1936,0.0,,,,,1,Shooting
+1948,0.0,,,,,1,Shooting
+1952,0.0,,,,,1,Shooting
+1956,0.0,,,,,1,Shooting
+1960,0.0,,,,,1,Shooting
+1964,0.0,,,,,1,Shooting
+1968,0.0,,,,,1,Shooting
+1972,0.0,,,,,1,Shooting
+1976,1.0,,,,,1,Shooting
+1980,0.0,,,,,1,Shooting
+1984,0.0,,,,,1,Shooting
+1988,0.0,,,,,1,Shooting
+1992,0.0,,,,,1,Shooting
+1996,0.0,,,,,1,Shooting
+2000,0.0,,,,,1,Shooting
+2004,0.0,,,,,1,Shooting
+2008,1.0,,,,,1,Shooting
+2012,0.0,,,,,1,Shooting
+2016,0.0,,,,,1,Shooting
+2020,0.0,,,,,1,Shooting
+2024,0.0,,,,,1,Shooting
+1896,0.0,,,,,0,Short Track Speed Skating
+1900,0.0,,,,,0,Short Track Speed Skating
+1904,0.0,,,,,0,Short Track Speed Skating
+1906,0.0,,,,,0,Short Track Speed Skating
+1908,0.0,,,,,0,Short Track Speed Skating
+1912,0.0,,,,,0,Short Track Speed Skating
+1920,0.0,,,,,0,Short Track Speed Skating
+1924,0.0,,,,,0,Short Track Speed Skating
+1928,0.0,,,,,0,Short Track Speed Skating
+1932,0.0,,,,,0,Short Track Speed Skating
+1936,0.0,,,,,0,Short Track Speed Skating
+1948,0.0,,,,,0,Short Track Speed Skating
+1952,0.0,,,,,0,Short Track Speed Skating
+1956,0.0,,,,,0,Short Track Speed Skating
+1960,0.0,,,,,0,Short Track Speed Skating
+1964,0.0,,,,,0,Short Track Speed Skating
+1968,0.0,,,,,0,Short Track Speed Skating
+1972,0.0,,,,,0,Short Track Speed Skating
+1976,0.0,,,,,0,Short Track Speed Skating
+1980,0.0,,,,,0,Short Track Speed Skating
+1984,0.0,,,,,0,Short Track Speed Skating
+1988,0.0,,,,,0,Short Track Speed Skating
+1992,0.0,0.4758064516129032,0.0075549869006275,0.08,0.606884979425114,1,Short Track Speed Skating
+1996,0.0,,,,,0,Short Track Speed Skating
+2000,0.0,,,,,0,Short Track Speed Skating
+2004,0.0,,,,,0,Short Track Speed Skating
+2008,0.0,,,,,0,Short Track Speed Skating
+2012,0.0,,,,,0,Short Track Speed Skating
+2016,0.0,,,,,0,Short Track Speed Skating
+2020,0.0,,,,,0,Short Track Speed Skating
+2024,0.0,,,,,0,Short Track Speed Skating
+1896,0.0,,,,,0,Skeleton
+1900,0.0,,,,,0,Skeleton
+1904,0.0,,,,,0,Skeleton
+1906,0.0,,,,,0,Skeleton
+1908,0.0,,,,,0,Skeleton
+1912,0.0,,,,,0,Skeleton
+1920,0.0,,,,,0,Skeleton
+1924,0.0,,,,,0,Skeleton
+1928,0.0,0.0,0.0017940437746681,0.03,0.375,1,Skeleton
+1932,0.0,,,,,0,Skeleton
+1936,0.0,,,,,0,Skeleton
+1948,0.0,0.0,0.0020053475935828,0.03,0.4429890701127018,1,Skeleton
+1952,0.0,,,,,0,Skeleton
+1956,0.0,,,,,0,Skeleton
+1960,0.0,,,,,0,Skeleton
+1964,0.0,,,,,0,Skeleton
+1968,0.0,,,,,0,Skeleton
+1972,0.0,,,,,0,Skeleton
+1976,0.0,,,,,0,Skeleton
+1980,0.0,,,,,0,Skeleton
+1984,0.0,,,,,0,Skeleton
+1988,0.0,,,,,0,Skeleton
+1992,0.0,,,,,0,Skeleton
+1996,0.0,,,,,0,Skeleton
+2000,0.0,,,,,0,Skeleton
+2004,0.0,,,,,0,Skeleton
+2008,0.0,,,,,0,Skeleton
+2012,0.0,,,,,0,Skeleton
+2016,0.0,,,,,0,Skeleton
+2020,0.0,,,,,0,Skeleton
+2024,0.0,,,,,0,Skeleton
+1896,0.0,,,,,0,Ski Jumping
+1900,0.0,,,,,0,Ski Jumping
+1904,0.0,,,,,0,Ski Jumping
+1906,0.0,,,,,0,Ski Jumping
+1908,0.0,,,,,0,Ski Jumping
+1912,0.0,,,,,0,Ski Jumping
+1920,0.0,,,,,0,Ski Jumping
+1924,0.0,,,,,1,Ski Jumping
+1928,0.0,,,,,1,Ski Jumping
+1932,0.0,,,,,1,Ski Jumping
+1936,0.0,,,,,1,Ski Jumping
+1948,0.0,,,,,1,Ski Jumping
+1952,0.0,,,,,1,Ski Jumping
+1956,0.0,,,,,1,Ski Jumping
+1960,0.0,,,,,1,Ski Jumping
+1964,0.0,,,,,1,Ski Jumping
+1968,0.0,,,,,1,Ski Jumping
+1972,0.0,,,,,1,Ski Jumping
+1976,0.0,,,,,1,Ski Jumping
+1980,0.0,,,,,1,Ski Jumping
+1984,0.0,,,,,1,Ski Jumping
+1988,0.0,,,,,1,Ski Jumping
+1992,0.0,,,,,1,Ski Jumping
+1996,0.0,,,,,0,Ski Jumping
+2000,0.0,,,,,0,Ski Jumping
+2004,0.0,,,,,0,Ski Jumping
+2008,0.0,,,,,0,Ski Jumping
+2012,0.0,,,,,0,Ski Jumping
+2016,0.0,,,,,0,Ski Jumping
+2020,0.0,,,,,0,Ski Jumping
+2024,0.0,,,,,0,Ski Jumping
+1896,0.0,,,,,0,Snowboarding
+1900,0.0,,,,,0,Snowboarding
+1904,0.0,,,,,0,Snowboarding
+1906,0.0,,,,,0,Snowboarding
+1908,0.0,,,,,0,Snowboarding
+1912,0.0,,,,,0,Snowboarding
+1920,0.0,,,,,0,Snowboarding
+1924,0.0,,,,,0,Snowboarding
+1928,0.0,,,,,0,Snowboarding
+1932,0.0,,,,,0,Snowboarding
+1936,0.0,,,,,0,Snowboarding
+1948,0.0,,,,,0,Snowboarding
+1952,0.0,,,,,0,Snowboarding
+1956,0.0,,,,,0,Snowboarding
+1960,0.0,,,,,0,Snowboarding
+1964,0.0,,,,,0,Snowboarding
+1968,0.0,,,,,0,Snowboarding
+1972,0.0,,,,,0,Snowboarding
+1976,0.0,,,,,0,Snowboarding
+1980,0.0,,,,,0,Snowboarding
+1984,0.0,,,,,0,Snowboarding
+1988,0.0,,,,,0,Snowboarding
+1992,0.0,,,,,0,Snowboarding
+1996,0.0,,,,,0,Snowboarding
+2000,0.0,,,,,0,Snowboarding
+2004,0.0,,,,,0,Snowboarding
+2008,0.0,,,,,0,Snowboarding
+2012,0.0,,,,,0,Snowboarding
+2016,0.0,,,,,0,Snowboarding
+2020,0.0,,,,,0,Snowboarding
+2024,0.0,,,,,0,Snowboarding
+1896,0.0,,,,,0,Softball
+1900,0.0,,,,,0,Softball
+1904,0.0,,,,,0,Softball
+1906,0.0,,,,,0,Softball
+1908,0.0,,,,,0,Softball
+1912,0.0,,,,,0,Softball
+1920,0.0,,,,,0,Softball
+1924,0.0,,,,,0,Softball
+1928,0.0,,,,,0,Softball
+1932,0.0,,,,,0,Softball
+1936,0.0,,,,,0,Softball
+1948,0.0,,,,,0,Softball
+1952,0.0,,,,,0,Softball
+1956,0.0,,,,,0,Softball
+1960,0.0,,,,,0,Softball
+1964,0.0,,,,,0,Softball
+1968,0.0,,,,,0,Softball
+1972,0.0,,,,,0,Softball
+1976,0.0,,,,,0,Softball
+1980,0.0,,,,,0,Softball
+1984,0.0,,,,,0,Softball
+1988,0.0,,,,,0,Softball
+1992,0.0,,,,,0,Softball
+1996,0.0,,,,,1,Softball
+2000,0.0,,,,,1,Softball
+2004,0.0,,,,,1,Softball
+2008,0.0,,,,,1,Softball
+2012,0.0,,,,,0,Softball
+2016,0.0,,,,,0,Softball
+2020,0.0,,,,,0,Softball
+2024,0.0,,,,,0,Softball
+1896,0.0,,,,,0,Speed Skating
+1900,0.0,,,,,0,Speed Skating
+1904,0.0,,,,,0,Speed Skating
+1906,0.0,,,,,0,Speed Skating
+1908,0.0,,,,,0,Speed Skating
+1912,0.0,,,,,0,Speed Skating
+1920,0.0,,,,,0,Speed Skating
+1924,0.0,,,,,1,Speed Skating
+1928,0.0,,,,,1,Speed Skating
+1932,0.0,,,,,1,Speed Skating
+1936,0.0,,,,,1,Speed Skating
+1948,0.0,,,,,1,Speed Skating
+1952,0.0,,,,,1,Speed Skating
+1956,0.0,,,,,1,Speed Skating
+1960,0.0,,,,,1,Speed Skating
+1964,0.0,,,,,1,Speed Skating
+1968,0.0,,,,,1,Speed Skating
+1972,0.0,,,,,1,Speed Skating
+1976,0.0,,,,,1,Speed Skating
+1980,0.0,,,,,1,Speed Skating
+1984,0.0,,,,,1,Speed Skating
+1988,0.0,,,,,1,Speed Skating
+1992,0.0,,,,,1,Speed Skating
+1996,0.0,,,,,0,Speed Skating
+2000,0.0,,,,,0,Speed Skating
+2004,0.0,,,,,0,Speed Skating
+2008,0.0,,,,,0,Speed Skating
+2012,0.0,,,,,0,Speed Skating
+2016,0.0,,,,,0,Speed Skating
+2020,0.0,,,,,0,Speed Skating
+2024,0.0,,,,,0,Speed Skating
+1896,0.0,,,,,1,Swimming
+1900,0.0,,,,,1,Swimming
+1904,0.0,,,,,1,Swimming
+1906,0.0,,,,,1,Swimming
+1908,0.0,,,,,1,Swimming
+1912,0.0,,,,,1,Swimming
+1920,0.0,,,,,1,Swimming
+1924,0.0,,,,,1,Swimming
+1928,0.0,,,,,1,Swimming
+1932,0.0,,,,,1,Swimming
+1936,0.0,,,,,1,Swimming
+1948,0.0,,,,,1,Swimming
+1952,0.0,,,,,1,Swimming
+1956,0.0,,,,,1,Swimming
+1960,0.0,,,,,1,Swimming
+1964,0.0,,,,,1,Swimming
+1968,0.0,,,,,1,Swimming
+1972,1.0,,,,,1,Swimming
+1976,0.0,,,,,1,Swimming
+1980,0.0,,,,,1,Swimming
+1984,0.0,,,,,1,Swimming
+1988,0.0,,,,,1,Swimming
+1992,0.0,,,,,1,Swimming
+1996,0.0,,,,,1,Swimming
+2000,0.0,,,,,1,Swimming
+2004,0.0,,,,,1,Swimming
+2008,0.0,,,,,1,Swimming
+2012,1.0,,,,,1,Swimming
+2016,2.0,,,,,1,Swimming
+2020,0.0,,,,,1,Swimming
+2024,1.0,,,,,1,Swimming
+1896,0.0,,,,,0,Synchronized Swimming
+1900,0.0,,,,,0,Synchronized Swimming
+1904,0.0,,,,,0,Synchronized Swimming
+1906,0.0,,,,,0,Synchronized Swimming
+1908,0.0,,,,,0,Synchronized Swimming
+1912,0.0,,,,,0,Synchronized Swimming
+1920,0.0,,,,,0,Synchronized Swimming
+1924,0.0,,,,,0,Synchronized Swimming
+1928,0.0,,,,,0,Synchronized Swimming
+1932,0.0,,,,,0,Synchronized Swimming
+1936,0.0,,,,,0,Synchronized Swimming
+1948,0.0,,,,,0,Synchronized Swimming
+1952,0.0,,,,,0,Synchronized Swimming
+1956,0.0,,,,,0,Synchronized Swimming
+1960,0.0,,,,,0,Synchronized Swimming
+1964,0.0,,,,,0,Synchronized Swimming
+1968,0.0,,,,,0,Synchronized Swimming
+1972,0.0,,,,,0,Synchronized Swimming
+1976,0.0,,,,,0,Synchronized Swimming
+1980,0.0,,,,,0,Synchronized Swimming
+1984,0.0,,,,,1,Synchronized Swimming
+1988,0.0,,,,,1,Synchronized Swimming
+1992,0.0,,,,,1,Synchronized Swimming
+1996,0.0,,,,,1,Synchronized Swimming
+2000,0.0,,,,,1,Synchronized Swimming
+2004,0.0,,,,,1,Synchronized Swimming
+2008,0.0,,,,,1,Synchronized Swimming
+2012,0.0,,,,,1,Synchronized Swimming
+2016,0.0,,,,,1,Synchronized Swimming
+2020,0.0,,,,,1,Synchronized Swimming
+2024,0.0,,,,,0,Synchronized Swimming
+1896,0.0,,,,,0,Table Tennis
+1900,0.0,,,,,0,Table Tennis
+1904,0.0,,,,,0,Table Tennis
+1906,0.0,,,,,0,Table Tennis
+1908,0.0,,,,,0,Table Tennis
+1912,0.0,,,,,0,Table Tennis
+1920,0.0,,,,,0,Table Tennis
+1924,0.0,,,,,0,Table Tennis
+1928,0.0,,,,,0,Table Tennis
+1932,0.0,,,,,0,Table Tennis
+1936,0.0,,,,,0,Table Tennis
+1948,0.0,,,,,0,Table Tennis
+1952,0.0,,,,,0,Table Tennis
+1956,0.0,,,,,0,Table Tennis
+1960,0.0,,,,,0,Table Tennis
+1964,0.0,,,,,0,Table Tennis
+1968,0.0,,,,,0,Table Tennis
+1972,0.0,,,,,0,Table Tennis
+1976,0.0,,,,,0,Table Tennis
+1980,0.0,,,,,0,Table Tennis
+1984,0.0,,,,,0,Table Tennis
+1988,0.0,,,,,1,Table Tennis
+1992,0.0,,,,,1,Table Tennis
+1996,0.0,,,,,1,Table Tennis
+2000,0.0,,,,,1,Table Tennis
+2004,0.0,,,,,1,Table Tennis
+2008,0.0,,,,,1,Table Tennis
+2012,0.0,,,,,1,Table Tennis
+2016,0.0,,,,,1,Table Tennis
+2020,0.0,,,,,1,Table Tennis
+2024,0.0,,,,,1,Table Tennis
+1896,0.0,,,,,0,Taekwondo
+1900,0.0,,,,,0,Taekwondo
+1904,0.0,,,,,0,Taekwondo
+1906,0.0,,,,,0,Taekwondo
+1908,0.0,,,,,0,Taekwondo
+1912,0.0,,,,,0,Taekwondo
+1920,0.0,,,,,0,Taekwondo
+1924,0.0,,,,,0,Taekwondo
+1928,0.0,,,,,0,Taekwondo
+1932,0.0,,,,,0,Taekwondo
+1936,0.0,,,,,0,Taekwondo
+1948,0.0,,,,,0,Taekwondo
+1952,0.0,,,,,0,Taekwondo
+1956,0.0,,,,,0,Taekwondo
+1960,0.0,,,,,0,Taekwondo
+1964,0.0,,,,,0,Taekwondo
+1968,0.0,,,,,0,Taekwondo
+1972,0.0,,,,,0,Taekwondo
+1976,0.0,,,,,0,Taekwondo
+1980,0.0,,,,,0,Taekwondo
+1984,0.0,,,,,0,Taekwondo
+1988,0.0,,,,,0,Taekwondo
+1992,0.0,,,,,0,Taekwondo
+1996,0.0,,,,,0,Taekwondo
+2000,0.0,,,,,1,Taekwondo
+2004,0.0,,,,,1,Taekwondo
+2008,0.0,,,,,1,Taekwondo
+2012,0.0,,,,,1,Taekwondo
+2016,0.0,,,,,1,Taekwondo
+2020,0.0,,,,,1,Taekwondo
+2024,0.0,,,,,1,Taekwondo
+1896,0.0,,,,,1,Tennis
+1900,0.0,,,,,1,Tennis
+1904,0.0,,,,,1,Tennis
+1906,0.0,,,,,1,Tennis
+1908,0.0,,,,,1,Tennis
+1912,0.0,,,,,1,Tennis
+1920,0.0,,,,,1,Tennis
+1924,0.0,,,,,1,Tennis
+1928,0.0,,,,,0,Tennis
+1932,0.0,,,,,0,Tennis
+1936,0.0,,,,,0,Tennis
+1948,0.0,,,,,0,Tennis
+1952,0.0,,,,,0,Tennis
+1956,0.0,,,,,0,Tennis
+1960,0.0,,,,,0,Tennis
+1964,0.0,,,,,0,Tennis
+1968,0.0,,,,,0,Tennis
+1972,0.0,,,,,0,Tennis
+1976,0.0,,,,,0,Tennis
+1980,0.0,,,,,0,Tennis
+1984,0.0,,,,,0,Tennis
+1988,0.0,,,,,1,Tennis
+1992,0.0,,,,,1,Tennis
+1996,0.0,,,,,1,Tennis
+2000,0.0,,,,,1,Tennis
+2004,0.0,,,,,1,Tennis
+2008,0.0,,,,,1,Tennis
+2012,0.0,,,,,1,Tennis
+2016,0.0,,,,,1,Tennis
+2020,0.0,,,,,1,Tennis
+2024,0.0,,,,,1,Tennis
+1896,0.0,,,,,0,Trampolining
+1900,0.0,,,,,0,Trampolining
+1904,0.0,,,,,0,Trampolining
+1906,0.0,,,,,0,Trampolining
+1908,0.0,,,,,0,Trampolining
+1912,0.0,,,,,0,Trampolining
+1920,0.0,,,,,0,Trampolining
+1924,0.0,,,,,0,Trampolining
+1928,0.0,,,,,0,Trampolining
+1932,0.0,,,,,0,Trampolining
+1936,0.0,,,,,0,Trampolining
+1948,0.0,,,,,0,Trampolining
+1952,0.0,,,,,0,Trampolining
+1956,0.0,,,,,0,Trampolining
+1960,0.0,,,,,0,Trampolining
+1964,0.0,,,,,0,Trampolining
+1968,0.0,,,,,0,Trampolining
+1972,0.0,,,,,0,Trampolining
+1976,0.0,,,,,0,Trampolining
+1980,0.0,,,,,0,Trampolining
+1984,0.0,,,,,0,Trampolining
+1988,0.0,,,,,0,Trampolining
+1992,0.0,,,,,0,Trampolining
+1996,0.0,,,,,0,Trampolining
+2000,0.0,,,,,1,Trampolining
+2004,0.0,,,,,1,Trampolining
+2008,0.0,,,,,1,Trampolining
+2012,0.0,,,,,1,Trampolining
+2016,0.0,,,,,1,Trampolining
+2020,0.0,,,,,0,Trampolining
+2024,0.0,,,,,0,Trampolining
+1896,0.0,,,,,0,Triathlon
+1900,0.0,,,,,0,Triathlon
+1904,0.0,,,,,0,Triathlon
+1906,0.0,,,,,0,Triathlon
+1908,0.0,,,,,0,Triathlon
+1912,0.0,,,,,0,Triathlon
+1920,0.0,,,,,0,Triathlon
+1924,0.0,,,,,0,Triathlon
+1928,0.0,,,,,0,Triathlon
+1932,0.0,,,,,0,Triathlon
+1936,0.0,,,,,0,Triathlon
+1948,0.0,,,,,0,Triathlon
+1952,0.0,,,,,0,Triathlon
+1956,0.0,,,,,0,Triathlon
+1960,0.0,,,,,0,Triathlon
+1964,0.0,,,,,0,Triathlon
+1968,0.0,,,,,0,Triathlon
+1972,0.0,,,,,0,Triathlon
+1976,0.0,,,,,0,Triathlon
+1980,0.0,,,,,0,Triathlon
+1984,0.0,,,,,0,Triathlon
+1988,0.0,,,,,0,Triathlon
+1992,0.0,,,,,0,Triathlon
+1996,0.0,,,,,0,Triathlon
+2000,0.0,,,,,1,Triathlon
+2004,0.0,,,,,1,Triathlon
+2008,0.0,,,,,1,Triathlon
+2012,0.0,,,,,1,Triathlon
+2016,0.0,,,,,1,Triathlon
+2020,2.0,,,,,1,Triathlon
+2024,0.0,,,,,1,Triathlon
+1896,0.0,,,,,0,Tug-Of-War
+1900,0.0,,,,,1,Tug-Of-War
+1904,0.0,,,,,1,Tug-Of-War
+1906,0.0,,,,,1,Tug-Of-War
+1908,0.0,,,,,1,Tug-Of-War
+1912,0.0,,,,,1,Tug-Of-War
+1920,0.0,,,,,1,Tug-Of-War
+1924,0.0,,,,,0,Tug-Of-War
+1928,0.0,,,,,0,Tug-Of-War
+1932,0.0,,,,,0,Tug-Of-War
+1936,0.0,,,,,0,Tug-Of-War
+1948,0.0,,,,,0,Tug-Of-War
+1952,0.0,,,,,0,Tug-Of-War
+1956,0.0,,,,,0,Tug-Of-War
+1960,0.0,,,,,0,Tug-Of-War
+1964,0.0,,,,,0,Tug-Of-War
+1968,0.0,,,,,0,Tug-Of-War
+1972,0.0,,,,,0,Tug-Of-War
+1976,0.0,,,,,0,Tug-Of-War
+1980,0.0,,,,,0,Tug-Of-War
+1984,0.0,,,,,0,Tug-Of-War
+1988,0.0,,,,,0,Tug-Of-War
+1992,0.0,,,,,0,Tug-Of-War
+1996,0.0,,,,,0,Tug-Of-War
+2000,0.0,,,,,0,Tug-Of-War
+2004,0.0,,,,,0,Tug-Of-War
+2008,0.0,,,,,0,Tug-Of-War
+2012,0.0,,,,,0,Tug-Of-War
+2016,0.0,,,,,0,Tug-Of-War
+2020,0.0,,,,,0,Tug-Of-War
+2024,0.0,,,,,0,Tug-Of-War
+1896,0.0,,,,,0,Volleyball
+1900,0.0,,,,,0,Volleyball
+1904,0.0,,,,,0,Volleyball
+1906,0.0,,,,,0,Volleyball
+1908,0.0,,,,,0,Volleyball
+1912,0.0,,,,,0,Volleyball
+1920,0.0,,,,,0,Volleyball
+1924,0.0,,,,,0,Volleyball
+1928,0.0,,,,,0,Volleyball
+1932,0.0,,,,,0,Volleyball
+1936,0.0,,,,,0,Volleyball
+1948,0.0,,,,,0,Volleyball
+1952,0.0,,,,,0,Volleyball
+1956,0.0,,,,,0,Volleyball
+1960,0.0,,,,,0,Volleyball
+1964,0.0,,,,,1,Volleyball
+1968,0.0,,,,,1,Volleyball
+1972,0.0,,,,,1,Volleyball
+1976,0.0,,,,,1,Volleyball
+1980,0.0,,,,,1,Volleyball
+1984,2.0,,,,,1,Volleyball
+1988,0.0,,,,,1,Volleyball
+1992,1.0,,,,,1,Volleyball
+1996,0.0,,,,,1,Volleyball
+2000,0.0,,,,,1,Volleyball
+2004,0.0,,,,,1,Volleyball
+2008,0.0,,,,,1,Volleyball
+2012,0.0,,,,,1,Volleyball
+2016,0.0,,,,,1,Volleyball
+2020,1.0,,,,,1,Volleyball
+2024,0.0,,,,,1,Volleyball
+1896,0.0,,,,,0,Water Polo
+1900,0.0,,,,,1,Water Polo
+1904,0.0,,,,,1,Water Polo
+1906,0.0,,,,,0,Water Polo
+1908,0.0,,,,,1,Water Polo
+1912,0.0,,,,,1,Water Polo
+1920,0.0,,,,,1,Water Polo
+1924,0.0,,,,,1,Water Polo
+1928,0.0,,,,,1,Water Polo
+1932,0.0,,,,,1,Water Polo
+1936,0.0,,,,,1,Water Polo
+1948,0.0,,,,,1,Water Polo
+1952,0.0,,,,,1,Water Polo
+1956,0.0,,,,,1,Water Polo
+1960,0.0,,,,,1,Water Polo
+1964,0.0,,,,,1,Water Polo
+1968,0.0,,,,,1,Water Polo
+1972,0.0,,,,,1,Water Polo
+1976,0.0,,,,,1,Water Polo
+1980,0.0,,,,,1,Water Polo
+1984,0.0,,,,,1,Water Polo
+1988,0.0,,,,,1,Water Polo
+1992,0.0,,,,,1,Water Polo
+1996,0.0,,,,,1,Water Polo
+2000,0.0,,,,,1,Water Polo
+2004,0.0,,,,,1,Water Polo
+2008,0.0,,,,,1,Water Polo
+2012,0.0,,,,,1,Water Polo
+2016,0.0,,,,,1,Water Polo
+2020,0.0,,,,,1,Water Polo
+2024,0.0,,,,,1,Water Polo
+1896,0.0,,,,,1,Weightlifting
+1900,0.0,,,,,0,Weightlifting
+1904,0.0,,,,,1,Weightlifting
+1906,0.0,,,,,1,Weightlifting
+1908,0.0,,,,,0,Weightlifting
+1912,0.0,,,,,0,Weightlifting
+1920,0.0,,,,,1,Weightlifting
+1924,0.0,,,,,1,Weightlifting
+1928,0.0,,,,,1,Weightlifting
+1932,0.0,,,,,1,Weightlifting
+1936,0.0,,,,,1,Weightlifting
+1948,0.0,,,,,1,Weightlifting
+1952,0.0,,,,,1,Weightlifting
+1956,0.0,,,,,1,Weightlifting
+1960,0.0,,,,,1,Weightlifting
+1964,0.0,,,,,1,Weightlifting
+1968,0.0,,,,,1,Weightlifting
+1972,2.0,,,,,1,Weightlifting
+1976,8.0,,,,,1,Weightlifting
+1980,0.0,,,,,1,Weightlifting
+1984,5.0,,,,,1,Weightlifting
+1988,5.0,,,,,1,Weightlifting
+1992,2.0,,,,,1,Weightlifting
+1996,0.0,,,,,1,Weightlifting
+2000,5.0,,,,,1,Weightlifting
+2004,13.0,,,,,1,Weightlifting
+2008,26.0,,,,,1,Weightlifting
+2012,37.0,,,,,1,Weightlifting
+2016,7.0,,,,,1,Weightlifting
+2020,0.0,,,,,1,Weightlifting
+2024,0.0,,,,,1,Weightlifting
+1896,0.0,,,,,1,Wrestling
+1900,0.0,,,,,0,Wrestling
+1904,0.0,,,,,1,Wrestling
+1906,0.0,,,,,1,Wrestling
+1908,0.0,,,,,1,Wrestling
+1912,0.0,,,,,1,Wrestling
+1920,0.0,,,,,1,Wrestling
+1924,0.0,,,,,1,Wrestling
+1928,0.0,,,,,1,Wrestling
+1932,0.0,,,,,1,Wrestling
+1936,0.0,,,,,1,Wrestling
+1948,0.0,,,,,1,Wrestling
+1952,0.0,,,,,1,Wrestling
+1956,0.0,,,,,1,Wrestling
+1960,0.0,,,,,1,Wrestling
+1964,0.0,,,,,1,Wrestling
+1968,0.0,,,,,1,Wrestling
+1972,0.0,,,,,1,Wrestling
+1976,0.0,,,,,1,Wrestling
+1980,0.0,,,,,1,Wrestling
+1984,1.0,,,,,1,Wrestling
+1988,1.0,,,,,1,Wrestling
+1992,0.0,,,,,1,Wrestling
+1996,0.0,,,,,1,Wrestling
+2000,2.0,,,,,1,Wrestling
+2004,1.0,,,,,1,Wrestling
+2008,7.0,,,,,1,Wrestling
+2012,4.0,,,,,1,Wrestling
+2016,1.0,,,,,1,Wrestling
+2020,0.0,,,,,1,Wrestling
+2024,0.0,,,,,1,Wrestling
