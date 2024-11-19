@@ -1,0 +1,198 @@
+Sport,Parameter,Model,R2,MSE,Best Window Size
+Alpine Skiing,drug,Moving Average,1.0,0.0,2
+Alpine Skiing,equity,Moving Average,-0.12351617265515835,0.0014722443798158037,7
+Alpine Skiing,popularity,Moving Average,-0.1447337422832149,8.328669170191734e-05,3
+Alpine Skiing,normalizedcountry,Moving Average,0.060500877094763705,0.0014567129629629626,3
+Alpine Skiing,CV,Moving Average,-0.06312130066055399,0.017102397034170155,7
+Alpinism,drug,Moving Average,1.0,0.0,2
+Archery,drug,Moving Average,1.0,0.0,2
+Archery,equity,Moving Average,0.011463809802758185,0.015864837816750525,2
+Archery,popularity,Moving Average,-0.16202294834378583,0.0001255715320224399,9
+Archery,normalizedcountry,Moving Average,0.10681022019572972,0.007139166666666666,2
+Archery,CV,Moving Average,-0.2108542571746821,0.038614490684666936,9
+Art Competitions,drug,Moving Average,1.0,0.0,2
+Athletics,drug,Moving Average,-0.11796423627828578,330.2416666666667,2
+Athletics,equity,Moving Average,0.6108258635777031,0.011416362263589915,2
+Athletics,popularity,Moving Average,0.13415529695507644,0.001109294531861559,2
+Athletics,normalizedcountry,Moving Average,0.5629564970844357,0.04748191964285713,2
+Athletics,CV,Moving Average,0.04644014124441653,0.006408124927098373,3
+Badminton,drug,Moving Average,1.0,0.0,2
+Baseball,drug,Moving Average,-0.16219667943805938,0.1497942386831276,9
+Basketball,drug,Moving Average,-0.14942528735632243,0.03703703703703705,9
+Basketball,equity,Moving Average,0.5122849972089343,0.023589809399673062,2
+Basketball,popularity,Moving Average,0.2018977851675804,3.27385529248603e-05,2
+Basketball,normalizedcountry,Moving Average,0.010093167701863526,0.00019675925925925923,3
+Basketball,CV,Moving Average,0.017339555407143048,0.009139271777303896,6
+Basque Pelota,drug,Moving Average,1.0,0.0,2
+Beach Volleyball,drug,Moving Average,1.0,0.0,2
+Biathlon,drug,Moving Average,1.0,0.0,2
+Bobsleigh,drug,Moving Average,1.0,0.0,2
+Bobsleigh,equity,Moving Average,1.0,0.0,2
+Bobsleigh,popularity,Moving Average,-0.21028367633073008,1.3469963943619157e-05,9
+Bobsleigh,normalizedcountry,Moving Average,0.02257217847769022,0.0005541666666666667,3
+Bobsleigh,CV,Moving Average,-0.29069269269952636,0.03714617586226049,5
+Boxing,drug,Moving Average,0.004065040650406471,0.1814814814814815,3
+Boxing,equity,Moving Average,0.3695367168150895,0.008674595409763541,2
+Boxing,popularity,Moving Average,0.01710689793663278,1.6628089352333862e-05,4
+Boxing,normalizedcountry,Moving Average,0.3224674413163846,0.012066666666666668,2
+Boxing,CV,Moving Average,-0.05012364584221163,0.013979488241680086,5
+Canoeing,drug,Moving Average,-0.0185185185185186,0.09166666666666666,2
+Canoeing,equity,Moving Average,0.18055555010217295,0.012170675795701764,2
+Canoeing,popularity,Moving Average,0.0741925106221426,3.633145393013236e-05,4
+Canoeing,normalizedcountry,Moving Average,0.29584069593584383,0.003597569444444443,2
+Canoeing,CV,Moving Average,-0.1504086415689314,0.007187908227306077,9
+Cricket,drug,Moving Average,1.0,0.0,2
+Croquet,drug,Moving Average,1.0,0.0,2
+Cross Country Skiing,drug,Moving Average,1.0,0.0,2
+Cross Country Skiing,equity,Moving Average,0.23743183865872808,0.017917699184213872,2
+Cross Country Skiing,popularity,Moving Average,-0.040337799126864526,7.900074768594248e-05,3
+Cross Country Skiing,normalizedcountry,Moving Average,0.026297921236811628,0.0013809259259259263,3
+Cross Country Skiing,CV,Moving Average,-0.18981581568452643,0.009457282678941472,9
+Curling,drug,Moving Average,1.0,0.0,2
+Cycling,drug,Moving Average,-0.0018382352941175295,0.9083333333333333,2
+Cycling,equity,Moving Average,0.629270175534496,0.00938992418033568,2
+Cycling,popularity,Moving Average,0.13071381768330836,0.00011023909314699294,2
+Cycling,normalizedcountry,Moving Average,0.42621332823059044,0.007266964285714284,2
+Cycling,CV,Moving Average,-0.08315037882907772,0.016656994035000285,7
+Diving,drug,Moving Average,1.0,0.0,2
+Diving,equity,Moving Average,0.16438059531603644,0.015395464454155818,2
+Diving,popularity,Moving Average,0.2603766904508341,6.872100748446986e-06,2
+Diving,normalizedcountry,Moving Average,0.4302698731828022,0.0010899038461538463,2
+Diving,CV,Moving Average,-0.1064962728984129,0.01260512298631854,9
+Equestrianism,drug,Moving Average,-0.19105180027721325,1.5205761316872428,9
+Equestrianism,equity,Moving Average,0.5346180920561154,0.012883142882333233,2
+Equestrianism,popularity,Moving Average,0.003988541176475846,4.668668152866433e-05,5
+Equestrianism,normalizedcountry,Moving Average,0.08026900296150052,0.0025880208333333332,2
+Equestrianism,CV,Moving Average,-0.09862331027932258,0.013735602729906529,7
+Fencing,drug,Moving Average,1.0,0.0,2
+Fencing,equity,Moving Average,0.5667747666870339,0.01312194505520251,2
+Fencing,popularity,Moving Average,0.1398447253103493,0.0008112872353347043,4
+Fencing,normalizedcountry,Moving Average,0.33195123024781037,0.002419866071428571,2
+Fencing,CV,Moving Average,-0.08059355163002402,0.007922207794570599,6
+Figure Skating,drug,Moving Average,1.0,0.0,2
+Figure Skating,equity,Moving Average,0.01518662277506555,0.0010326298551710299,3
+Figure Skating,popularity,Moving Average,-0.15919527733804073,3.6556324107732198e-06,6
+Figure Skating,normalizedcountry,Moving Average,0.097871744609353,0.0005573529411764707,2
+Figure Skating,CV,Moving Average,-0.026535091434699565,0.016269574326888716,4
+Football,drug,Moving Average,1.0,0.0,2
+Football,equity,Moving Average,0.6117820272692034,0.013269039503479896,2
+Football,popularity,Moving Average,0.26215002185584335,6.971653418369441e-05,2
+Football,normalizedcountry,Moving Average,-0.06276401796433806,0.0008838942307692307,2
+Football,CV,Moving Average,0.23628305831413676,0.02554514781874698,2
+Freestyle Skiing,drug,Moving Average,1.0,0.0,2
+Golf,drug,Moving Average,1.0,0.0,2
+Gymnastics,drug,Moving Average,-0.02880658436214012,0.0925925925925926,3
+Gymnastics,equity,Moving Average,0.4589143347141532,0.022403639779987723,2
+Gymnastics,popularity,Moving Average,-0.12790917823585612,0.004676991445774447,6
+Gymnastics,normalizedcountry,Moving Average,0.41134662000088607,0.0029658482142857143,2
+Gymnastics,CV,Moving Average,0.28021407902647466,0.010232271892482336,4
+Handball,drug,Moving Average,1.0,0.0,2
+Handball,equity,Moving Average,-0.20310071422975118,0.019719712957660836,3
+Handball,popularity,Moving Average,0.06920901757000053,1.6575868503735895e-05,3
+Handball,normalizedcountry,Moving Average,0.1858552631578947,8.593750000000001e-05,2
+Handball,CV,Moving Average,-0.18274058515706937,0.0071920546874474104,7
+Hockey,drug,Moving Average,1.0,0.0,2
+Hockey,equity,Moving Average,0.5500107014267996,0.023485851858798156,2
+Hockey,popularity,Moving Average,0.010989650222844594,3.625494879156095e-05,2
+Hockey,normalizedcountry,Moving Average,-0.02462724074384348,0.000315909090909091,2
+Hockey,CV,Moving Average,-0.12278634909228225,0.008579448656922705,4
+Ice Hockey,drug,Moving Average,1.0,0.0,2
+Ice Hockey,equity,Moving Average,1.0,0.0,2
+Ice Hockey,popularity,Moving Average,-0.1625223366196582,2.234793272844214e-05,5
+Ice Hockey,normalizedcountry,Moving Average,-0.11777777777777798,0.00022006250000000004,5
+Ice Hockey,CV,Moving Average,-0.02399706923875433,0.00896917252600534,8
+Jeu De Paume,drug,Moving Average,1.0,0.0,2
+Judo,drug,Moving Average,-0.013013013013013053,0.20823045267489712,9
+Judo,equity,Moving Average,0.21339063046434625,0.032729571260154834,2
+Judo,popularity,Moving Average,0.033824700331122504,4.859120385064408e-05,3
+Judo,normalizedcountry,Moving Average,0.08704371618680407,0.020390625000000006,2
+Judo,CV,Moving Average,-0.12055776722316303,0.07724035707930581,9
+Lacrosse,drug,Moving Average,1.0,0.0,2
+Luge,drug,Moving Average,1.0,0.0,2
+Military Ski Patrol,drug,Moving Average,1.0,0.0,2
+Modern Pentathlon,drug,Moving Average,-0.03170731707317098,0.18800000000000006,5
+Modern Pentathlon,equity,Moving Average,0.503968253968254,0.025,2
+Modern Pentathlon,popularity,Moving Average,0.21861299799693867,4.22166289329146e-06,2
+Modern Pentathlon,normalizedcountry,Moving Average,0.12431021423934208,0.0007649456521739131,2
+Modern Pentathlon,CV,Moving Average,-0.16823942012142834,0.09069852119491752,9
+Motorboating,drug,Moving Average,1.0,0.0,2
+Nordic Combined,drug,Moving Average,1.0,0.0,2
+Nordic Combined,equity,Moving Average,1.0,0.0,2
+Nordic Combined,popularity,Moving Average,-0.08489045955423213,3.933766571671777e-06,2
+Nordic Combined,normalizedcountry,Moving Average,-0.049890350877192846,7.979166666666669e-05,8
+Nordic Combined,CV,Moving Average,-0.12730758371282458,0.015781073485164197,4
+Polo,drug,Moving Average,1.0,0.0,2
+Racquets,drug,Moving Average,1.0,0.0,2
+Rhythmic Gymnastics,drug,Moving Average,1.0,0.0,2
+Roque,drug,Moving Average,1.0,0.0,2
+Rowing,drug,Moving Average,-0.00961538461538436,0.11666666666666667,4
+Rowing,equity,Moving Average,0.5869108731812884,0.014972935596867224,2
+Rowing,popularity,Moving Average,-0.13989559619715974,0.00024640129138255994,9
+Rowing,normalizedcountry,Moving Average,0.3992710296065518,0.00441712962962963,2
+Rowing,CV,Moving Average,0.23483923796395945,0.013917981790442372,4
+Rugby,drug,Moving Average,1.0,0.0,2
+Rugby Sevens,drug,Moving Average,1.0,0.0,2
+Sailing,drug,Moving Average,-0.14942528735632243,0.03703703703703705,9
+Sailing,equity,Moving Average,0.5794145253114786,0.012450708885034186,2
+Sailing,popularity,Moving Average,0.1598439599696505,1.97868430725476e-05,3
+Sailing,normalizedcountry,Moving Average,0.4376128344001313,0.00685325,2
+Sailing,CV,Moving Average,0.2388034483251168,0.01074571468291522,2
+Shooting,drug,Moving Average,-0.0797991071428572,0.0671875,8
+Shooting,equity,Moving Average,0.6317339740493203,0.012481689746247124,2
+Shooting,popularity,Moving Average,0.35861859259282425,0.0017701831564193803,2
+Shooting,normalizedcountry,Moving Average,0.4668848071686782,0.014807451923076928,2
+Shooting,CV,Moving Average,-0.12096028436833395,0.011602524217799132,9
+Short Track Speed Skating,drug,Moving Average,1.0,0.0,2
+Skeleton,drug,Moving Average,1.0,0.0,2
+Ski Jumping,drug,Moving Average,1.0,0.0,2
+Ski Jumping,equity,Moving Average,1.0,0.0,2
+Ski Jumping,popularity,Moving Average,0.04862653429700803,4.673903385706333e-06,2
+Ski Jumping,normalizedcountry,Moving Average,-0.23130070993914797,0.0001348958333333333,4
+Ski Jumping,CV,Moving Average,-0.08487407362581023,0.014201183343505296,5
+Snowboarding,drug,Moving Average,1.0,0.0,2
+Softball,drug,Moving Average,1.0,0.0,2
+Speed Skating,drug,Moving Average,1.0,0.0,2
+Speed Skating,equity,Moving Average,0.3727677878563903,0.026349519291179572,2
+Speed Skating,popularity,Moving Average,-0.2977041758271013,2.908948133192499e-05,5
+Speed Skating,normalizedcountry,Moving Average,-0.1488490745135258,0.0005379166666666664,2
+Speed Skating,CV,Moving Average,-0.11123226274050735,0.013743736343425992,8
+Swimming,drug,Moving Average,-0.1451451451451451,0.23539094650205758,9
+Swimming,equity,Moving Average,0.4188242543016276,0.014003578925455737,2
+Swimming,popularity,Moving Average,0.7106023001651605,0.000248487220382033,2
+Swimming,normalizedcountry,Moving Average,0.5249014819839836,0.03262767857142857,2
+Swimming,CV,Moving Average,-0.057559288780423934,0.010367095913015625,8
+Synchronized Swimming,drug,Moving Average,1.0,0.0,2
+Synchronized Swimming,equity,Moving Average,1.0,0.0,2
+Synchronized Swimming,popularity,Moving Average,-0.02403390716439957,3.111016145405205e-06,8
+Table Tennis,drug,Moving Average,1.0,0.0,2
+Table Tennis,equity,Moving Average,-7.812843279508819e-05,1.5124018478307175e-05,8
+Table Tennis,popularity,Moving Average,-0.00564442215073413,1.8136893492837682e-06,8
+Taekwondo,drug,Moving Average,1.0,0.0,2
+Tennis,drug,Moving Average,1.0,0.0,2
+Tennis,equity,Moving Average,0.3251157093660493,0.016656780785277246,2
+Tennis,popularity,Moving Average,-0.0749322950388922,0.00011027049937775062,3
+Tennis,normalizedcountry,Moving Average,0.4519703089182405,0.005578333333333333,2
+Tennis,CV,Moving Average,-0.04927680543944679,0.0075332898733938124,3
+Trampolining,drug,Moving Average,1.0,0.0,2
+Triathlon,drug,Moving Average,-0.16219667943805893,0.14979423868312758,9
+Tug-Of-War,drug,Moving Average,1.0,0.0,2
+Volleyball,drug,Moving Average,-0.09756097560975552,0.19999999999999993,9
+Volleyball,equity,Moving Average,-0.011945883598716955,0.0018461785316270676,2
+Volleyball,popularity,Moving Average,-0.046775159799965715,2.6306760084138074e-05,4
+Volleyball,normalizedcountry,Moving Average,0.2201186131386863,0.0001264423076923077,2
+Volleyball,CV,Moving Average,-0.13228425977184344,0.0045775540097279365,7
+Water Polo,drug,Moving Average,1.0,0.0,2
+Water Polo,equity,Moving Average,0.5584446049112843,0.014966214005136319,2
+Water Polo,popularity,Moving Average,-0.047867524134007855,1.8171749423597936e-05,5
+Water Polo,normalizedcountry,Moving Average,-0.07617316589557199,0.00048173076923076934,6
+Water Polo,CV,Moving Average,-0.15760507014233638,0.008456149515803505,5
+Weightlifting,drug,Moving Average,0.03484219269102995,64.55833333333334,2
+Weightlifting,equity,Moving Average,0.51318422714578,0.015955596378005452,2
+Weightlifting,popularity,Moving Average,-0.2039909557182753,1.3585935790330833e-05,6
+Weightlifting,normalizedcountry,Moving Average,0.4314923179632858,0.010150499999999998,2
+Weightlifting,CV,Moving Average,-0.08265196826085974,0.020633846601902213,6
+Wrestling,drug,Moving Average,-0.006049447659127072,2.125,2
+Wrestling,equity,Moving Average,0.5272720448737674,0.010534921808587802,2
+Wrestling,popularity,Moving Average,0.0808267954820504,3.0142998902875485e-05,3
+Wrestling,normalizedcountry,Moving Average,0.3912047429398987,0.005766435185185185,2
+Wrestling,CV,Moving Average,-0.15836264515999798,0.00835571695619271,9
